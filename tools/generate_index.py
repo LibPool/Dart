@@ -398,12 +398,16 @@ def populate_details(
 
 
 _CONSTRAINT_RE = re.compile(
-    r"(?P<op>\^|>=|<=|>|<|=)?\s*(?P<version>\d+(?:\.\d+){0,3})"
+    r"(?P<op>\^|>=|<=|>|<|=)?\s*"
+    r"(?P<version>\d+(?:\.\d+)*(?:[-+._][0-9A-Za-z]+)*)"
 )
 
 
 def _parse_version(value: str) -> tuple[int, int, int, int]:
-    parts = [int(part) for part in value.split(".")[:4]]
+    numeric = re.match(r"\d+(?:\.\d+)*", value)
+    if numeric is None:
+        return (0, 0, 0, 0)
+    parts = [int(part) for part in numeric.group(0).split(".")[:4]]
     parts.extend([0] * (4 - len(parts)))
     return tuple(parts[:4])  # type: ignore[return-value]
 
