@@ -6,6 +6,7 @@ from __future__ import annotations
 import argparse
 import concurrent.futures
 import gzip
+import hashlib
 import json
 import re
 import sqlite3
@@ -28,6 +29,14 @@ RETRIES = 5
 MAJORS = (1, 2, 3)
 DART2_RELEASED = "2018-08-01"
 DART3_RELEASED = "2023-05-10"
+WINDOWS_RESERVED_NAMES = {
+    "CON",
+    "PRN",
+    "AUX",
+    "NUL",
+    *(f"COM{index}" for index in range(1, 10)),
+    *(f"LPT{index}" for index in range(1, 10)),
+}
 
 
 class FetchError(RuntimeError):
@@ -486,7 +495,13 @@ def supported_majors(payload: dict[str, Any]) -> list[int]:
 def safe_component(value: str) -> str:
     value = value.strip().replace("/", "_").replace("\\", "_")
     value = re.sub(r"[\x00-\x1f<>:\"|?*]", "_", value)
-    return value.rstrip(". ") or "_"
+    value = value.rstrip(". ") or "_"
+    if value.split(".", 1)[0].upper() in WINDOWS_RESERVED_NAMES:
+        value = f"_{value}"
+    if len(value) > 100:
+        digest = hashlib.sha1(value.encode("utf-8")).hexdigest()[:10]
+        value = f"{value[:80].rstrip('. ')}~{digest}"
+    return value
 
 
 def derive_tags(payload: dict[str, Any]) -> list[str]:
