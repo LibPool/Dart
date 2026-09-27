@@ -25,7 +25,9 @@ DEFAULT_CACHE = Path("cache/pub_cache.sqlite3")
 DEFAULT_WORKERS = 24
 DEFAULT_PAGE_WORKERS = 24
 RETRIES = 5
-MAJORS = (2, 3)
+MAJORS = (1, 2, 3)
+DART2_RELEASED = "2018-08-01"
+DART3_RELEASED = "2023-05-10"
 
 
 class FetchError(RuntimeError):
@@ -461,11 +463,23 @@ def supported_majors(payload: dict[str, Any]) -> list[int]:
         pubspec = version.get("pubspec") or {}
         environment = pubspec.get("environment") or {}
         sdk = environment.get("sdk")
-        for major in MAJORS:
-            if constraint_intersects_major(sdk, major):
-                found.add(major)
+        if isinstance(sdk, str) and sdk.strip():
+            for major in MAJORS:
+                if constraint_intersects_major(sdk, major):
+                    found.add(major)
+            continue
+
+        # Old pubspecs often omit environment.sdk. Publish dates provide a
+        # conservative Dart 1/2/3 fallback without inventing SDK constraints.
+        published = str(version.get("published") or "")
+        if published and published < DART2_RELEASED:
+            found.add(1)
+        elif published and published < DART3_RELEASED:
+            found.add(2)
+        elif published:
+            found.add(3)
     if not found:
-        found.add(3)
+        found.update(MAJORS)
     return [major for major in MAJORS if major in found]
 
 
@@ -626,7 +640,7 @@ def write_readme(counts: dict[int, int], total: int) -> None:
 
 本仓库收录 pub.dev 中央仓库中的 Dart 与 Flutter 包，按 Dart 大版本与包名组织。
 
-- 大版本目录：`dart-v2`、`dart-v3`
+- 大版本目录：`dart-v1`、`dart-v2`、`dart-v3`
 - 包路径：`<package>/<package>.md`
 - 包会根据各历史版本声明的 Dart SDK 约束，同时出现在兼容的大版本目录中
 - 当前共枚举 {total} 个 pub.dev 包
