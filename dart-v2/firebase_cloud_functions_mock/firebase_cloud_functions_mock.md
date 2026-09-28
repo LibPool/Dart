@@ -1,0 +1,28 @@
+# firebase_cloud_functions_mock
+
+**Tag**: testing
+
+## 简介
+
+Dart firebase cloud functioin mock for testing
+
+## 官网
+
+- 主页: https://github.com/technixo/firebase_cloud_functions_mock
+- pub.dev: https://pub.dev/packages/firebase_cloud_functions_mock
+
+## 历史版本号
+
+- 0.0.3 (2020-10-22)
+- 0.0.2 (2020-10-21)
+- 0.0.1 (2020-10-20)
+
+## 获取地址
+
+- pub.dev: https://pub.dev/packages/firebase_cloud_functions_mock
+- pub 安装: `dart pub add firebase_cloud_functions_mock`
+- Flutter 安装: `flutter pub add firebase_cloud_functions_mock`
+- 最新版本: 0.0.3
+- 最新版归档: https://pub.dev/api/archives/firebase_cloud_functions_mock-0.0.3.tar.gz
+- 版本锁定: `firebase_cloud_functions_mock: ^0.0.3`
+- 中央仓库: https://pub.dev/

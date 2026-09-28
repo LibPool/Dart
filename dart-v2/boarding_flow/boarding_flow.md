@@ -1,0 +1,32 @@
+# boarding_flow
+
+**Tag**: mobile
+
+## 简介
+
+A custom flutter package for creating amazing onBoarding pages.
+
+## 官网
+
+- 主页: https://github.com/Destiny-Ed/boarding_flow
+- pub.dev: https://pub.dev/packages/boarding_flow
+
+## 历史版本号
+
+- 1.0.2 (2021-08-13)
+- 1.0.0 (2021-06-16)
+- 0.0.5 (2021-05-30)
+- 0.0.4 (2021-05-28)
+- 0.0.3 (2021-05-28)
+- 0.0.2 (2021-05-28)
+- 0.0.1 (2021-03-09)
+
+## 获取地址
+
+- pub.dev: https://pub.dev/packages/boarding_flow
+- pub 安装: `dart pub add boarding_flow`
+- Flutter 安装: `flutter pub add boarding_flow`
+- 最新版本: 1.0.2
+- 最新版归档: https://pub.dev/api/archives/boarding_flow-1.0.2.tar.gz
+- 版本锁定: `boarding_flow: ^1.0.2`
+- 中央仓库: https://pub.dev/

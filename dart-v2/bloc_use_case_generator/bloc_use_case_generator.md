@@ -1,0 +1,29 @@
+# bloc_use_case_generator
+
+**Tag**: mobile, state-management, tooling
+
+## 简介
+
+Generates event and states for flutter_bloc
+
+## 官网
+
+- 主页: https://github.com/oguzhan2142/bloc_use_case_generator
+- pub.dev: https://pub.dev/packages/bloc_use_case_generator
+
+## 历史版本号
+
+- 1.2.0 (2022-11-04)
+- 1.1.1 (2022-10-13)
+- 1.1.0 (2022-10-13)
+- 1.0.0 (2022-08-28)
+
+## 获取地址
+
+- pub.dev: https://pub.dev/packages/bloc_use_case_generator
+- pub 安装: `dart pub add bloc_use_case_generator`
+- Flutter 安装: `flutter pub add bloc_use_case_generator`
+- 最新版本: 1.2.0
+- 最新版归档: https://pub.dev/api/archives/bloc_use_case_generator-1.2.0.tar.gz
+- 版本锁定: `bloc_use_case_generator: ^1.2.0`
+- 中央仓库: https://pub.dev/

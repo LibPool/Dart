@@ -1,0 +1,28 @@
+# helplane_flutter
+
+**Tag**: mobile, ui
+
+## 简介
+
+HelpLane chat widget SDK for Flutter. Add live chat support to your Flutter app.
+
+## 官网
+
+- 主页: https://github.com/intigratech/helplane-flutter
+- 问题追踪: https://github.com/intigratech/helplane-flutter/issues
+- pub.dev: https://pub.dev/packages/helplane_flutter
+
+## 历史版本号
+
+- 1.0.13 (2025-11-28)
+- 1.0.0 (2025-11-28)
+
+## 获取地址
+
+- pub.dev: https://pub.dev/packages/helplane_flutter
+- pub 安装: `dart pub add helplane_flutter`
+- Flutter 安装: `flutter pub add helplane_flutter`
+- 最新版本: 1.0.13
+- 最新版归档: https://pub.dev/api/archives/helplane_flutter-1.0.13.tar.gz
+- 版本锁定: `helplane_flutter: ^1.0.13`
+- 中央仓库: https://pub.dev/

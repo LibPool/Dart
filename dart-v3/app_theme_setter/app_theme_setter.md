@@ -1,0 +1,28 @@
+# app_theme_setter
+
+**Tag**: mobile, ui
+
+## 简介
+
+A powerful, SOLID-compliant dynamic theming package for Flutter. Effortlessly switch themes, customize deep UI elements using extensions, and persist theme selection.
+
+## 官网
+
+- 主页: https://github.com/akshaykakkodi/app_theme_setter
+- 问题追踪: https://github.com/akshaykakkodi/app_theme_setter/issues
+- pub.dev: https://pub.dev/packages/app_theme_setter
+
+## 历史版本号
+
+- 0.0.2 (2026-02-12)
+- 0.0.1 (2026-02-10)
+
+## 获取地址
+
+- pub.dev: https://pub.dev/packages/app_theme_setter
+- pub 安装: `dart pub add app_theme_setter`
+- Flutter 安装: `flutter pub add app_theme_setter`
+- 最新版本: 0.0.2
+- 最新版归档: https://pub.dev/api/archives/app_theme_setter-0.0.2.tar.gz
+- 版本锁定: `app_theme_setter: ^0.0.2`
+- 中央仓库: https://pub.dev/

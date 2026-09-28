@@ -1,0 +1,27 @@
+# portico_auth_credentials
+
+**Tag**: security
+
+## 简介
+
+Secure password hashing (Argon2id) and user identity management for Portico Auth.
+
+## 官网
+
+- 源码仓库: https://github.com/jtmcdole/portico_auth/tree/main/packages/portico_auth_credentials
+- 问题追踪: https://github.com/jtmcdole/portico_auth/issues
+- pub.dev: https://pub.dev/packages/portico_auth_credentials
+
+## 历史版本号
+
+- 1.0.0 (2026-01-26)
+
+## 获取地址
+
+- pub.dev: https://pub.dev/packages/portico_auth_credentials
+- pub 安装: `dart pub add portico_auth_credentials`
+- Flutter 安装: `flutter pub add portico_auth_credentials`
+- 最新版本: 1.0.0
+- 最新版归档: https://pub.dev/api/archives/portico_auth_credentials-1.0.0.tar.gz
+- 版本锁定: `portico_auth_credentials: ^1.0.0`
+- 中央仓库: https://pub.dev/

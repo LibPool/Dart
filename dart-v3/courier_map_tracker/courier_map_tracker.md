@@ -1,0 +1,28 @@
+# courier_map_tracker
+
+**Tag**: mobile
+
+## 简介
+
+Package Flutter untuk menampilkan pelacakan rute kurir dengan navigasi peta yang dinamis.
+
+## 官网
+
+- 主页: https://github.com/robilprogramer/courier_map_tracker
+- pub.dev: https://pub.dev/packages/courier_map_tracker
+
+## 历史版本号
+
+- 1.0.2 (2026-09-03)
+- 1.0.1 (2026-09-03)
+- 1.0.0 (2026-09-03)
+
+## 获取地址
+
+- pub.dev: https://pub.dev/packages/courier_map_tracker
+- pub 安装: `dart pub add courier_map_tracker`
+- Flutter 安装: `flutter pub add courier_map_tracker`
+- 最新版本: 1.0.2
+- 最新版归档: https://pub.dev/api/archives/courier_map_tracker-1.0.2.tar.gz
+- 版本锁定: `courier_map_tracker: ^1.0.2`
+- 中央仓库: https://pub.dev/

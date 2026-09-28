@@ -1,0 +1,31 @@
+# harmony_auth
+
+**Tag**: security
+
+## 简介
+
+Harmony Low-Level Authentication and Token Management Mechanism.
+
+## 官网
+
+- 主页: https://github.com/6thsolution/harmony
+- pub.dev: https://pub.dev/packages/harmony_auth
+
+## 历史版本号
+
+- 3.4.0 (2023-12-01)
+- 3.0.0 (2023-02-27)
+- 2.0.2 (2023-02-04)
+- 2.0.1 (2023-02-04)
+- 2.0.0 (2022-01-23)
+- 1.1.0 (2022-01-02)
+
+## 获取地址
+
+- pub.dev: https://pub.dev/packages/harmony_auth
+- pub 安装: `dart pub add harmony_auth`
+- Flutter 安装: `flutter pub add harmony_auth`
+- 最新版本: 3.4.0
+- 最新版归档: https://pub.dev/api/archives/harmony_auth-3.4.0.tar.gz
+- 版本锁定: `harmony_auth: ^3.4.0`
+- 中央仓库: https://pub.dev/

@@ -1,0 +1,29 @@
+# onnx_ffi
+
+**Tag**: web
+
+## 简介
+
+A Dart FFI-based implementation of the `onnx` package, providing native bindings to ONNX Runtime C API for high-performance ONNX model inference.
+
+## 官网
+
+- 主页: https://github.com/ArishSultan/onnx_dart
+- 源码仓库: https://github.com/ArishSultan/onnx_dart.git
+- 问题追踪: https://github.com/ArishSultan/onnx_dart/issues
+- 文档: https://github.com/ArishSultan/onnx_dart/blob/main/packages/onnx_ffi/README.md
+- pub.dev: https://pub.dev/packages/onnx_ffi
+
+## 历史版本号
+
+- 1.0.0+dev.1 (2024-10-22)
+
+## 获取地址
+
+- pub.dev: https://pub.dev/packages/onnx_ffi
+- pub 安装: `dart pub add onnx_ffi`
+- Flutter 安装: `flutter pub add onnx_ffi`
+- 最新版本: 1.0.0+dev.1
+- 最新版归档: https://pub.dev/api/archives/onnx_ffi-1.0.0%2Bdev.1.tar.gz
+- 版本锁定: `onnx_ffi: ^1.0.0+dev.1`
+- 中央仓库: https://pub.dev/

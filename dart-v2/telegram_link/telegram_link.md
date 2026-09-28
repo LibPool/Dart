@@ -1,0 +1,28 @@
+# telegram_link
+
+**Tag**: library
+
+## 简介
+
+simple library for generating telegram links. It is possible to generate links with number or username
+
+## 官网
+
+- 源码仓库: https://github.com/rickypid/telegram_link
+- pub.dev: https://pub.dev/packages/telegram_link
+
+## 历史版本号
+
+- 1.0.0 (2023-04-10)
+- 0.0.2-pre (2022-05-22)
+- 0.0.1-pre (2022-05-22)
+
+## 获取地址
+
+- pub.dev: https://pub.dev/packages/telegram_link
+- pub 安装: `dart pub add telegram_link`
+- Flutter 安装: `flutter pub add telegram_link`
+- 最新版本: 1.0.0
+- 最新版归档: https://pub.dev/api/archives/telegram_link-1.0.0.tar.gz
+- 版本锁定: `telegram_link: ^1.0.0`
+- 中央仓库: https://pub.dev/

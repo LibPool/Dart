@@ -1,0 +1,27 @@
+# shiprocket
+
+**Tag**: web
+
+## 简介
+
+easy way to place orders using shaiprocket api.
+
+## 官网
+
+- 主页: https://github.com/kanakapalli/shiprocket_flutter_api
+- pub.dev: https://pub.dev/packages/shiprocket
+
+## 历史版本号
+
+- 0.0.2 (2022-09-28)
+- 0.0.1 (2022-09-28)
+
+## 获取地址
+
+- pub.dev: https://pub.dev/packages/shiprocket
+- pub 安装: `dart pub add shiprocket`
+- Flutter 安装: `flutter pub add shiprocket`
+- 最新版本: 0.0.2
+- 最新版归档: https://pub.dev/api/archives/shiprocket-0.0.2.tar.gz
+- 版本锁定: `shiprocket: ^0.0.2`
+- 中央仓库: https://pub.dev/

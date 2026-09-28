@@ -1,0 +1,28 @@
+# allow_http
+
+**Tag**: web, networking
+
+## 简介
+
+Use this package to allow HTTP network traffic.
+
+## 官网
+
+- 主页: https://untillnesss.github.io
+- 源码仓库: https://github.com/untillnesss/allow-http.git
+- pub.dev: https://pub.dev/packages/allow_http
+
+## 历史版本号
+
+- 1.0.1 (2022-06-05)
+- 1.0.0 (2022-06-05)
+
+## 获取地址
+
+- pub.dev: https://pub.dev/packages/allow_http
+- pub 安装: `dart pub add allow_http`
+- Flutter 安装: `flutter pub add allow_http`
+- 最新版本: 1.0.1
+- 最新版归档: https://pub.dev/api/archives/allow_http-1.0.1.tar.gz
+- 版本锁定: `allow_http: ^1.0.1`
+- 中央仓库: https://pub.dev/

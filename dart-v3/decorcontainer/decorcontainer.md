@@ -1,0 +1,27 @@
+# decorcontainer
+
+**Tag**: library
+
+## 简介
+
+Provides fancy containers
+
+## 官网
+
+- 主页: https://github.com/brightroots7/fancyContainer
+- pub.dev: https://pub.dev/packages/decorcontainer
+
+## 历史版本号
+
+- 0.0.2 (2025-06-18)
+- 0.0.1 (2025-06-18)
+
+## 获取地址
+
+- pub.dev: https://pub.dev/packages/decorcontainer
+- pub 安装: `dart pub add decorcontainer`
+- Flutter 安装: `flutter pub add decorcontainer`
+- 最新版本: 0.0.2
+- 最新版归档: https://pub.dev/api/archives/decorcontainer-0.0.2.tar.gz
+- 版本锁定: `decorcontainer: ^0.0.2`
+- 中央仓库: https://pub.dev/

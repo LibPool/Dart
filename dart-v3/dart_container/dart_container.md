@@ -1,0 +1,39 @@
+# dart_container
+
+**Tag**: web
+
+## 简介
+
+Injection container and app server for Dart. Provides functionality similar to Java's Spring dependency injection and appserver.
+
+## 官网
+
+- 源码仓库: https://github.com/ctrohin/dart_container.git
+- pub.dev: https://pub.dev/packages/dart_container
+
+## 历史版本号
+
+- 1.0.11 (2024-08-09)
+- 1.0.10 (2024-08-07)
+- 1.0.9 (2024-07-30)
+- 1.0.8 (2024-07-29)
+- 1.0.7+2 (2024-07-24)
+- 1.0.7+1 (2024-07-24)
+- 1.0.7 (2024-07-23)
+- 1.0.6 (2024-07-22)
+- 1.0.5 (2024-07-22)
+- 1.0.4 (2024-07-19)
+- 1.0.3 (2024-07-18)
+- 1.0.2 (2024-07-18)
+- 1.0.1 (2024-07-18)
+- 1.0.0 (2024-07-18)
+
+## 获取地址
+
+- pub.dev: https://pub.dev/packages/dart_container
+- pub 安装: `dart pub add dart_container`
+- Flutter 安装: `flutter pub add dart_container`
+- 最新版本: 1.0.11
+- 最新版归档: https://pub.dev/api/archives/dart_container-1.0.11.tar.gz
+- 版本锁定: `dart_container: ^1.0.11`
+- 中央仓库: https://pub.dev/

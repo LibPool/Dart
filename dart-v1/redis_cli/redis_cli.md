@@ -1,0 +1,26 @@
+# redis_cli
+
+**Tag**: tooling
+
+## 简介
+
+A tiny redis client dor dart lang.
+
+## 官网
+
+- 主页: https://github.com/dzambuto/redis_cli
+- pub.dev: https://pub.dev/packages/redis_cli
+
+## 历史版本号
+
+- 0.1.1 (2013-12-02)
+
+## 获取地址
+
+- pub.dev: https://pub.dev/packages/redis_cli
+- pub 安装: `dart pub add redis_cli`
+- Flutter 安装: `flutter pub add redis_cli`
+- 最新版本: 0.1.1
+- 最新版归档: https://pub.dev/api/archives/redis_cli-0.1.1.tar.gz
+- 版本锁定: `redis_cli: ^0.1.1`
+- 中央仓库: https://pub.dev/

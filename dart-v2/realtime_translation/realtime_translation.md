@@ -1,0 +1,28 @@
+# realtime_translation
+
+**Tag**: mobile
+
+## 简介
+
+A new Flutter real time translation Package for android and ios.It is used for real time translation from camera.
+
+## 官网
+
+- 主页: https://github.com/kesmitopiwala/realtime_translation/blob/main/example/lib/main.dart
+- pub.dev: https://pub.dev/packages/realtime_translation
+
+## 历史版本号
+
+- 0.0.3 (2022-01-26)
+- 0.0.2 (2022-01-26)
+- 0.0.1 (2022-01-26)
+
+## 获取地址
+
+- pub.dev: https://pub.dev/packages/realtime_translation
+- pub 安装: `dart pub add realtime_translation`
+- Flutter 安装: `flutter pub add realtime_translation`
+- 最新版本: 0.0.3
+- 最新版归档: https://pub.dev/api/archives/realtime_translation-0.0.3.tar.gz
+- 版本锁定: `realtime_translation: ^0.0.3`
+- 中央仓库: https://pub.dev/

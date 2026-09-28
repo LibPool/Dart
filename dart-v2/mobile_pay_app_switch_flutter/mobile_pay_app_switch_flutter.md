@@ -1,0 +1,26 @@
+# mobile_pay_app_switch_flutter
+
+**Tag**: mobile
+
+## 简介
+
+A Flutter plugin for MobilePay
+
+## 官网
+
+- 主页: https://developer.mobilepay.dk/appswitch-main
+- pub.dev: https://pub.dev/packages/mobile_pay_app_switch_flutter
+
+## 历史版本号
+
+- 0.0.1 (2019-12-02)
+
+## 获取地址
+
+- pub.dev: https://pub.dev/packages/mobile_pay_app_switch_flutter
+- pub 安装: `dart pub add mobile_pay_app_switch_flutter`
+- Flutter 安装: `flutter pub add mobile_pay_app_switch_flutter`
+- 最新版本: 0.0.1
+- 最新版归档: https://pub.dev/api/archives/mobile_pay_app_switch_flutter-0.0.1.tar.gz
+- 版本锁定: `mobile_pay_app_switch_flutter: ^0.0.1`
+- 中央仓库: https://pub.dev/

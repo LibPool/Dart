@@ -1,0 +1,32 @@
+# flutter_data_state
+
+**Tag**: mobile, ui, state-management, tooling
+
+## 简介
+
+DataStateBuilder and other data_state Flutter utilities
+
+## 官网
+
+- 主页: https://github.com/flutterdata/data_state/packages/flutter_data_state
+- pub.dev: https://pub.dev/packages/flutter_data_state
+
+## 历史版本号
+
+- 0.3.1 (2020-06-17)
+- 0.3.0 (2020-06-15)
+- 0.2.9 (2020-04-22)
+- 0.2.8 (2020-04-21)
+- 0.2.7 (2020-04-20)
+- 0.2.6 (2020-04-19)
+- 0.2.5 (2020-04-19)
+
+## 获取地址
+
+- pub.dev: https://pub.dev/packages/flutter_data_state
+- pub 安装: `dart pub add flutter_data_state`
+- Flutter 安装: `flutter pub add flutter_data_state`
+- 最新版本: 0.3.1
+- 最新版归档: https://pub.dev/api/archives/flutter_data_state-0.3.1.tar.gz
+- 版本锁定: `flutter_data_state: ^0.3.1`
+- 中央仓库: https://pub.dev/

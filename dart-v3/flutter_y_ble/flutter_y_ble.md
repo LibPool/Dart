@@ -1,0 +1,42 @@
+# flutter_y_ble
+
+**Tag**: mobile
+
+## 简介
+
+A new Flutter Bluetooth plugin.
+
+## 官网
+
+- 主页: https://github.com/usernameyangyan
+- 源码仓库: https://github.com/example/my_flutter_package.git
+- pub.dev: https://pub.dev/packages/flutter_y_ble
+
+## 历史版本号
+
+- 1.0.15 (2024-03-18)
+- 1.0.14 (2024-03-13)
+- 1.0.13 (2024-03-13)
+- 1.0.12 (2024-03-13)
+- 1.0.11 (2024-03-12)
+- 1.0.10 (2024-03-12)
+- 1.0.9 (2024-03-12)
+- 1.0.8 (2024-03-12)
+- 1.0.7 (2024-03-07)
+- 1.0.6 (2024-03-07)
+- 1.0.5 (2024-02-19)
+- 1.0.4 (2024-02-19)
+- 1.0.3 (2024-02-18)
+- 1.0.2 (2024-02-18)
+- 1.0.1 (2024-02-18)
+- 1.0.0 (2024-02-18)
+
+## 获取地址
+
+- pub.dev: https://pub.dev/packages/flutter_y_ble
+- pub 安装: `dart pub add flutter_y_ble`
+- Flutter 安装: `flutter pub add flutter_y_ble`
+- 最新版本: 1.0.15
+- 最新版归档: https://pub.dev/api/archives/flutter_y_ble-1.0.15.tar.gz
+- 版本锁定: `flutter_y_ble: ^1.0.15`
+- 中央仓库: https://pub.dev/

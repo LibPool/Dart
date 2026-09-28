@@ -1,0 +1,36 @@
+# quiz_view
+
+**Tag**: mobile, ui, tooling
+
+## 简介
+
+A new flutter package which allows you to host your own quiz, customize the user interface, theme , functionalities, question, correct answer and on click function for answers.
+
+## 官网
+
+- 主页: https://github.com/JayTWWM/Quiz-View-Flutter
+- pub.dev: https://pub.dev/packages/quiz_view
+
+## 历史版本号
+
+- 1.0.5 (2021-04-13)
+- 1.0.4 (2021-03-31)
+- 1.0.3 (2020-07-19)
+- 1.0.2 (2020-07-19)
+- 1.0.1 (2020-06-21)
+- 1.0.0 (2020-06-20)
+- 0.0.5 (2020-06-20)
+- 0.0.4 (2020-06-20)
+- 0.0.3 (2020-06-20)
+- 0.0.2 (2020-06-20)
+- 0.0.1 (2020-06-20)
+
+## 获取地址
+
+- pub.dev: https://pub.dev/packages/quiz_view
+- pub 安装: `dart pub add quiz_view`
+- Flutter 安装: `flutter pub add quiz_view`
+- 最新版本: 1.0.5
+- 最新版归档: https://pub.dev/api/archives/quiz_view-1.0.5.tar.gz
+- 版本锁定: `quiz_view: ^1.0.5`
+- 中央仓库: https://pub.dev/

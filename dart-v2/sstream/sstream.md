@@ -1,0 +1,33 @@
+# sstream
+
+**Tag**: testing
+
+## 简介
+
+SStream is a simplified version of StreamController which holds the lastest value broadcasted.
+
+## 官网
+
+- 主页: https://www.otoritech.com
+- 源码仓库: https://github.com/otoricode/sstream
+- pub.dev: https://pub.dev/packages/sstream
+
+## 历史版本号
+
+- 1.0.6 (2023-01-03)
+- 1.0.5 (2022-07-18)
+- 1.0.4 (2022-05-28)
+- 1.0.3 (2022-05-28)
+- 1.0.2 (2022-05-28)
+- 1.0.1 (2022-05-28)
+- 1.0.0 (2022-05-28)
+
+## 获取地址
+
+- pub.dev: https://pub.dev/packages/sstream
+- pub 安装: `dart pub add sstream`
+- Flutter 安装: `flutter pub add sstream`
+- 最新版本: 1.0.6
+- 最新版归档: https://pub.dev/api/archives/sstream-1.0.6.tar.gz
+- 版本锁定: `sstream: ^1.0.6`
+- 中央仓库: https://pub.dev/

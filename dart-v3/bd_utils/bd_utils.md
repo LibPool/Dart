@@ -1,0 +1,29 @@
+# bd_utils
+
+**Tag**: mobile
+
+## 简介
+
+Bangladesh utility helpers for Flutter apps (phone, date, currency, district, bangla number)
+
+## 官网
+
+- 主页: https://github.com/alamin1x0/bd_utils
+- 问题追踪: https://github.com/alamin1x0/bd_utils/issues
+- pub.dev: https://pub.dev/packages/bd_utils
+
+## 历史版本号
+
+- 1.0.2 (2025-12-29)
+- 1.0.1 (2025-12-29)
+- 1.0.0 (2025-12-29)
+
+## 获取地址
+
+- pub.dev: https://pub.dev/packages/bd_utils
+- pub 安装: `dart pub add bd_utils`
+- Flutter 安装: `flutter pub add bd_utils`
+- 最新版本: 1.0.2
+- 最新版归档: https://pub.dev/api/archives/bd_utils-1.0.2.tar.gz
+- 版本锁定: `bd_utils: ^1.0.2`
+- 中央仓库: https://pub.dev/

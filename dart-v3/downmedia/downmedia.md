@@ -1,0 +1,30 @@
+# downmedia
+
+**Tag**: library
+
+## 简介
+
+Media download plugin
+
+## 官网
+
+- 主页: https://github.com/eotacioglu/downmedia
+- pub.dev: https://pub.dev/packages/downmedia
+
+## 历史版本号
+
+- 0.0.5 (2025-08-20)
+- 0.0.4 (2025-08-19)
+- 0.0.3 (2025-08-19)
+- 0.0.2 (2025-08-19)
+- 0.0.1 (2024-05-18)
+
+## 获取地址
+
+- pub.dev: https://pub.dev/packages/downmedia
+- pub 安装: `dart pub add downmedia`
+- Flutter 安装: `flutter pub add downmedia`
+- 最新版本: 0.0.5
+- 最新版归档: https://pub.dev/api/archives/downmedia-0.0.5.tar.gz
+- 版本锁定: `downmedia: ^0.0.5`
+- 中央仓库: https://pub.dev/

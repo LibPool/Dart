@@ -1,0 +1,26 @@
+# hello_package1
+
+**Tag**: mobile
+
+## 简介
+
+A new Flutter package project.
+
+## 官网
+
+- 主页: https://github.com/HassanButt2019/Flutter-Applications/tree/main/hello_package
+- pub.dev: https://pub.dev/packages/hello_package1
+
+## 历史版本号
+
+- 0.0.2 (2022-01-26)
+
+## 获取地址
+
+- pub.dev: https://pub.dev/packages/hello_package1
+- pub 安装: `dart pub add hello_package1`
+- Flutter 安装: `flutter pub add hello_package1`
+- 最新版本: 0.0.2
+- 最新版归档: https://pub.dev/api/archives/hello_package1-0.0.2.tar.gz
+- 版本锁定: `hello_package1: ^0.0.2`
+- 中央仓库: https://pub.dev/

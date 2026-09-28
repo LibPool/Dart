@@ -1,0 +1,28 @@
+# numda
+
+**Tag**: library
+
+## 简介
+
+numeric library for dart (just like numpy)
+
+## 官网
+
+- 源码仓库: https://github.com/ccc-dart/numda
+- pub.dev: https://pub.dev/packages/numda
+
+## 历史版本号
+
+- 0.0.3 (2020-07-22)
+- 0.0.2 (2020-07-22)
+- 0.0.1 (2020-07-22)
+
+## 获取地址
+
+- pub.dev: https://pub.dev/packages/numda
+- pub 安装: `dart pub add numda`
+- Flutter 安装: `flutter pub add numda`
+- 最新版本: 0.0.3
+- 最新版归档: https://pub.dev/api/archives/numda-0.0.3.tar.gz
+- 版本锁定: `numda: ^0.0.3`
+- 中央仓库: https://pub.dev/

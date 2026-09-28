@@ -1,0 +1,31 @@
+# ton_connect_ui
+
+**Tag**: ton, blockchain, wallet, crypto, mobile, ui, security, state-management
+
+## 简介
+
+Flutter UI for TON Connect: a wallet-picker modal backed by the public wallet registry, QR and deep-link connect flows, and ready-made connect widgets.
+
+## 官网
+
+- 源码仓库: https://github.com/Treamz/ton_connect_dart
+- 问题追踪: https://github.com/Treamz/ton_connect_dart/issues
+- pub.dev: https://pub.dev/packages/ton_connect_ui
+
+## 历史版本号
+
+- 0.1.0 (2026-08-23)
+- 0.1.0-dev.4 (2026-08-23)
+- 0.1.0-dev.3 (2026-08-20)
+- 0.1.0-dev.2 (2026-08-20)
+- 0.1.0-dev.1 (2026-08-20)
+
+## 获取地址
+
+- pub.dev: https://pub.dev/packages/ton_connect_ui
+- pub 安装: `dart pub add ton_connect_ui`
+- Flutter 安装: `flutter pub add ton_connect_ui`
+- 最新版本: 0.1.0
+- 最新版归档: https://pub.dev/api/archives/ton_connect_ui-0.1.0.tar.gz
+- 版本锁定: `ton_connect_ui: ^0.1.0`
+- 中央仓库: https://pub.dev/

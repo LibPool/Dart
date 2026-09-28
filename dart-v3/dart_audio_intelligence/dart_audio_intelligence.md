@@ -1,0 +1,27 @@
+# dart_audio_intelligence
+
+**Tag**: web
+
+## 简介
+
+A strongly-typed Dart intelligence layer for audio transcription and analysis via the AssemblyAI API.
+
+## 官网
+
+- 主页: https://github.com/TathagatGupta98/Voice-Recording-Analyser
+- 源码仓库: https://github.com/TathagatGupta98/Voice-Recording-Analyser/tree/main/packages/dart_audio_intelligence
+- pub.dev: https://pub.dev/packages/dart_audio_intelligence
+
+## 历史版本号
+
+- 0.0.1 (2026-06-17)
+
+## 获取地址
+
+- pub.dev: https://pub.dev/packages/dart_audio_intelligence
+- pub 安装: `dart pub add dart_audio_intelligence`
+- Flutter 安装: `flutter pub add dart_audio_intelligence`
+- 最新版本: 0.0.1
+- 最新版归档: https://pub.dev/api/archives/dart_audio_intelligence-0.0.1.tar.gz
+- 版本锁定: `dart_audio_intelligence: ^0.0.1`
+- 中央仓库: https://pub.dev/

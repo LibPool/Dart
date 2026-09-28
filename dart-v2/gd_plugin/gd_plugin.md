@@ -1,0 +1,39 @@
+# gd_plugin
+
+**Tag**: mobile
+
+## 简介
+
+A new Flutter plugin.
+
+## 官网
+
+- 主页: http://asdfasdf.com
+- pub.dev: https://pub.dev/packages/gd_plugin
+
+## 历史版本号
+
+- 0.0.14 (2019-07-11)
+- 0.0.13 (2019-07-01)
+- 0.0.12 (2019-06-28)
+- 0.0.11 (2019-06-27)
+- 0.0.10 (2019-06-21)
+- 0.0.9 (2019-06-21)
+- 0.0.8 (2019-06-21)
+- 0.0.7 (2019-06-21)
+- 0.0.6 (2019-06-20)
+- 0.0.5 (2019-06-20)
+- 0.0.4 (2019-06-20)
+- 0.0.3 (2019-06-20)
+- 0.0.2 (2019-06-20)
+- 0.0.1 (2019-06-19)
+
+## 获取地址
+
+- pub.dev: https://pub.dev/packages/gd_plugin
+- pub 安装: `dart pub add gd_plugin`
+- Flutter 安装: `flutter pub add gd_plugin`
+- 最新版本: 0.0.14
+- 最新版归档: https://pub.dev/api/archives/gd_plugin-0.0.14.tar.gz
+- 版本锁定: `gd_plugin: ^0.0.14`
+- 中央仓库: https://pub.dev/

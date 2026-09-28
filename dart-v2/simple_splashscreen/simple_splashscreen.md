@@ -1,0 +1,29 @@
+# simple_splashscreen
+
+**Tag**: library
+
+## 简介
+
+Simple way to create your splash screen. Now, one can just add dependency in pubspec file, import and use it.
+
+## 官网
+
+- 主页: https://github.com/ThanmayParvatham/simple_splashscreen.git
+- pub.dev: https://pub.dev/packages/simple_splashscreen
+
+## 历史版本号
+
+- 0.1.3 (2020-04-09)
+- 0.1.2 (2020-04-09)
+- 0.1.0 (2020-04-09)
+- 0.0.1 (2020-03-29)
+
+## 获取地址
+
+- pub.dev: https://pub.dev/packages/simple_splashscreen
+- pub 安装: `dart pub add simple_splashscreen`
+- Flutter 安装: `flutter pub add simple_splashscreen`
+- 最新版本: 0.1.3
+- 最新版归档: https://pub.dev/api/archives/simple_splashscreen-0.1.3.tar.gz
+- 版本锁定: `simple_splashscreen: ^0.1.3`
+- 中央仓库: https://pub.dev/

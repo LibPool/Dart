@@ -1,0 +1,51 @@
+# google_mlkit_digital_ink_recognition
+
+**Tag**: mobile
+
+## 简介
+
+A Flutter plugin to use Google's ML Kit Digital Ink Recognition to recognize handwritten text on a digital surface in hundreds of languages, as well as classify sketches.
+
+## 官网
+
+- 主页: https://github.com/flutter-ml/google_ml_kit_flutter
+- 源码仓库: https://github.com/flutter-ml/google_ml_kit_flutter/tree/master/packages/google_mlkit_digital_ink_recognition
+- pub.dev: https://pub.dev/packages/google_mlkit_digital_ink_recognition
+
+## 历史版本号
+
+- 0.16.1 (2026-08-17)
+- 0.16.0 (2026-08-17)
+- 0.15.0 (2026-07-07)
+- 0.14.2 (2026-02-03)
+- 0.14.1 (2025-03-20)
+- 0.14.0 (2025-03-20)
+- 0.13.0 (2024-10-07)
+- 0.12.1 (2024-09-19)
+- 0.12.0 (2024-04-25)
+- 0.11.1 (2024-04-22)
+- 0.11.0 (2024-04-22)
+- 0.10.0 (2023-11-02)
+- 0.9.0 (2023-07-06)
+- 0.8.0 (2023-06-01)
+- 0.7.0 (2023-04-19)
+- 0.6.0 (2022-11-04)
+- 0.5.0 (2022-07-27)
+- 0.4.0 (2022-05-06)
+- 0.3.0 (2022-05-02)
+- 0.2.1 (2022-04-28)
+- 0.2.0 (2022-04-27)
+- 0.1.0 (2022-04-26)
+- 0.0.2 (2022-04-22)
+- 0.0.1+1 (2022-04-20)
+- 0.0.1 (2022-04-20)
+
+## 获取地址
+
+- pub.dev: https://pub.dev/packages/google_mlkit_digital_ink_recognition
+- pub 安装: `dart pub add google_mlkit_digital_ink_recognition`
+- Flutter 安装: `flutter pub add google_mlkit_digital_ink_recognition`
+- 最新版本: 0.16.1
+- 最新版归档: https://pub.dev/api/archives/google_mlkit_digital_ink_recognition-0.16.1.tar.gz
+- 版本锁定: `google_mlkit_digital_ink_recognition: ^0.16.1`
+- 中央仓库: https://pub.dev/

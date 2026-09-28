@@ -1,0 +1,28 @@
+# apiverve_ascii85encoder
+
+**Tag**: web
+
+## 简介
+
+ASCII85 Encoder is a tool for encoding and decoding data using ASCII85 (also known as Base85) encoding. It supports both standard and btoa formats for efficient binary-to-text encoding with better compression than Base64.
+
+## 官网
+
+- 主页: https://apiverve.com/marketplace/ascii85encoder?utm_source=dart&utm_medium=homepage
+- 源码仓库: https://github.com/apiverve/ascii85encoder-api/tree/main/dart
+- pub.dev: https://pub.dev/packages/apiverve_ascii85encoder
+
+## 历史版本号
+
+- 1.2.0 (2026-07-16)
+- 1.1.14 (2026-02-16)
+
+## 获取地址
+
+- pub.dev: https://pub.dev/packages/apiverve_ascii85encoder
+- pub 安装: `dart pub add apiverve_ascii85encoder`
+- Flutter 安装: `flutter pub add apiverve_ascii85encoder`
+- 最新版本: 1.2.0
+- 最新版归档: https://pub.dev/api/archives/apiverve_ascii85encoder-1.2.0.tar.gz
+- 版本锁定: `apiverve_ascii85encoder: ^1.2.0`
+- 中央仓库: https://pub.dev/

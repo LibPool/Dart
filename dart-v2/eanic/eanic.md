@@ -1,0 +1,27 @@
+# eanic
+
+**Tag**: library
+
+## 简介
+
+A cross-platform, pure-Dart package to read and write ID3 tags.
+
+## 官网
+
+- 主页: https://github.com/kgyf/eanic
+- pub.dev: https://pub.dev/packages/eanic
+
+## 历史版本号
+
+- 0.2.0 (2021-06-26)
+- 0.1.0 (2021-06-19)
+
+## 获取地址
+
+- pub.dev: https://pub.dev/packages/eanic
+- pub 安装: `dart pub add eanic`
+- Flutter 安装: `flutter pub add eanic`
+- 最新版本: 0.2.0
+- 最新版归档: https://pub.dev/api/archives/eanic-0.2.0.tar.gz
+- 版本锁定: `eanic: ^0.2.0`
+- 中央仓库: https://pub.dev/

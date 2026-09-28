@@ -1,0 +1,28 @@
+# randomutils
+
+**Tag**: library
+
+## 简介
+
+Simple dart package that provides useful utility functions to make everyday coding easier.
+
+## 官网
+
+- 主页: https://github.com/vd-imran/FlutterTraining/tree/master/Assignment10/random_utils
+- pub.dev: https://pub.dev/packages/randomutils
+
+## 历史版本号
+
+- 1.0.2 (2020-07-09)
+- 1.0.1 (2020-07-08)
+- 1.0.0 (2020-07-08)
+
+## 获取地址
+
+- pub.dev: https://pub.dev/packages/randomutils
+- pub 安装: `dart pub add randomutils`
+- Flutter 安装: `flutter pub add randomutils`
+- 最新版本: 1.0.2
+- 最新版归档: https://pub.dev/api/archives/randomutils-1.0.2.tar.gz
+- 版本锁定: `randomutils: ^1.0.2`
+- 中央仓库: https://pub.dev/

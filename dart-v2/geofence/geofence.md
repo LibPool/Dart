@@ -1,0 +1,31 @@
+# geofence
+
+**Tag**: mobile
+
+## 简介
+
+Flutter Geofence Plugin Background Job Support For Register Geofence & If Mobile enters for exit geofence flutter code get triggered
+
+## 官网
+
+- 主页: https://github.com/ubheamar/flutter_geofence
+- pub.dev: https://pub.dev/packages/geofence
+
+## 历史版本号
+
+- 1.0.3 (2018-12-07)
+- 1.0.2 (2018-12-07)
+- 1.0.1 (2018-11-05)
+- 1.0.0 (2018-11-05)
+- 0.0.2 (2018-11-05)
+- 0.0.1 (2018-11-05)
+
+## 获取地址
+
+- pub.dev: https://pub.dev/packages/geofence
+- pub 安装: `dart pub add geofence`
+- Flutter 安装: `flutter pub add geofence`
+- 最新版本: 1.0.3
+- 最新版归档: https://pub.dev/api/archives/geofence-1.0.3.tar.gz
+- 版本锁定: `geofence: ^1.0.3`
+- 中央仓库: https://pub.dev/

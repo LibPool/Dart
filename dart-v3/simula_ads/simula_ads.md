@@ -1,0 +1,26 @@
+# simula_ads
+
+**Tag**: mobile
+
+## 简介
+
+Flutter SDK for integrating contextual AI ads with Simula
+
+## 官网
+
+- 主页: https://simula.ad
+- pub.dev: https://pub.dev/packages/simula_ads
+
+## 历史版本号
+
+- 1.0.0 (2026-01-25)
+
+## 获取地址
+
+- pub.dev: https://pub.dev/packages/simula_ads
+- pub 安装: `dart pub add simula_ads`
+- Flutter 安装: `flutter pub add simula_ads`
+- 最新版本: 1.0.0
+- 最新版归档: https://pub.dev/api/archives/simula_ads-1.0.0.tar.gz
+- 版本锁定: `simula_ads: ^1.0.0`
+- 中央仓库: https://pub.dev/

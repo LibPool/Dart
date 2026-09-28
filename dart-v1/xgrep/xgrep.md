@@ -1,0 +1,29 @@
+# xgrep
+
+**Tag**: desktop
+
+## 简介
+
+A library/script for locating/grepping things on linux
+
+## 官网
+
+- 主页: https://github.com/patefacio/xgrep
+- pub.dev: https://pub.dev/packages/xgrep
+
+## 历史版本号
+
+- 0.0.5 (2015-04-01)
+- 0.0.4 (2015-03-20)
+- 0.0.3 (2015-03-16)
+- 0.0.2 (2015-03-10)
+
+## 获取地址
+
+- pub.dev: https://pub.dev/packages/xgrep
+- pub 安装: `dart pub add xgrep`
+- Flutter 安装: `flutter pub add xgrep`
+- 最新版本: 0.0.5
+- 最新版归档: https://pub.dev/api/archives/xgrep-0.0.5.tar.gz
+- 版本锁定: `xgrep: ^0.0.5`
+- 中央仓库: https://pub.dev/

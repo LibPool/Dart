@@ -1,0 +1,28 @@
+# draggable_expandable_fab
+
+**Tag**: mobile, ui
+
+## 简介
+
+This Flutter package provides a Expandable and Draggable Floating Button with animation.
+
+## 官网
+
+- 主页: https://github.com/Tughra/draggable_expandable_fab
+- pub.dev: https://pub.dev/packages/draggable_expandable_fab
+
+## 历史版本号
+
+- 1.0.0 (2022-08-07)
+- 0.0.2 (2022-06-04)
+- 0.0.1 (2022-06-04)
+
+## 获取地址
+
+- pub.dev: https://pub.dev/packages/draggable_expandable_fab
+- pub 安装: `dart pub add draggable_expandable_fab`
+- Flutter 安装: `flutter pub add draggable_expandable_fab`
+- 最新版本: 1.0.0
+- 最新版归档: https://pub.dev/api/archives/draggable_expandable_fab-1.0.0.tar.gz
+- 版本锁定: `draggable_expandable_fab: ^1.0.0`
+- 中央仓库: https://pub.dev/

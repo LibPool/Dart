@@ -1,0 +1,25 @@
+# flutter_auth_facebook
+
+**Tag**: mobile, security
+
+## 简介
+
+Login of Google, Twitter, Github, Facebook, Apple, Microsoft.
+
+## 官网
+
+- pub.dev: https://pub.dev/packages/flutter_auth_facebook
+
+## 历史版本号
+
+- 1.0.5 (2022-06-13)
+
+## 获取地址
+
+- pub.dev: https://pub.dev/packages/flutter_auth_facebook
+- pub 安装: `dart pub add flutter_auth_facebook`
+- Flutter 安装: `flutter pub add flutter_auth_facebook`
+- 最新版本: 1.0.5
+- 最新版归档: https://pub.dev/api/archives/flutter_auth_facebook-1.0.5.tar.gz
+- 版本锁定: `flutter_auth_facebook: ^1.0.5`
+- 中央仓库: https://pub.dev/

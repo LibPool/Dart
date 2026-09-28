@@ -1,0 +1,32 @@
+# bm_flutter
+
+**Tag**: mobile, ui, security
+
+## 简介
+
+A Flutter toolkit providing annotation-driven preferences code generation, device security utilities, and reusable UI components.
+
+## 官网
+
+- 主页: https://github.com/BakrIOS91/BMFlutter
+- pub.dev: https://pub.dev/packages/bm_flutter
+
+## 历史版本号
+
+- 0.1.9 (2026-08-28)
+- 0.1.7 (2026-06-18)
+- 0.1.6 (2026-06-18)
+- 0.1.5 (2026-06-15)
+- 0.1.4 (2026-06-15)
+- 0.1.3 (2026-06-15)
+- 0.1.2 (2026-06-15)
+
+## 获取地址
+
+- pub.dev: https://pub.dev/packages/bm_flutter
+- pub 安装: `dart pub add bm_flutter`
+- Flutter 安装: `flutter pub add bm_flutter`
+- 最新版本: 0.1.9
+- 最新版归档: https://pub.dev/api/archives/bm_flutter-0.1.9.tar.gz
+- 版本锁定: `bm_flutter: ^0.1.9`
+- 中央仓库: https://pub.dev/

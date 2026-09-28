@@ -1,0 +1,51 @@
+# flutter_zalopay_sdk
+
+**Tag**: mobile
+
+## 简介
+
+A plugin for ZaloPay App To App Purchase. This plugin allows you to open ZaloPay app and receive status of the order, then back to your app. Supports iOS and Android.
+
+## 官网
+
+- 主页: https://github.com/sonvp/flutter_zalo
+- pub.dev: https://pub.dev/packages/flutter_zalopay_sdk
+
+## 历史版本号
+
+- 0.1.14 (2023-08-28)
+- 0.1.13 (2022-10-06)
+- 0.1.12 (2022-05-23)
+- 0.1.11 (2022-05-21)
+- 0.1.10 (2022-05-21)
+- 0.1.9 (2022-05-20)
+- 0.1.8 (2022-05-20)
+- 0.1.7 (2022-05-20)
+- 0.1.6 (2022-05-20)
+- 0.1.5 (2022-05-20)
+- 0.1.4 (2021-06-24)
+- 0.1.3 (2021-06-24)
+- 0.1.2 (2021-05-16)
+- 0.1.1 (2021-05-16)
+- 0.1.0 (2020-11-27)
+- 0.0.1+10 (2020-11-26)
+- 0.0.1+9 (2020-11-25)
+- 0.0.1+8 (2020-11-16)
+- 0.0.1+7 (2020-11-14)
+- 0.0.1+6 (2020-11-14)
+- 0.0.1+5 (2020-11-10)
+- 0.0.1+4 (2020-10-31)
+- 0.0.1+3 (2020-10-30)
+- 0.0.1+2 (2020-10-30)
+- 0.0.1+1 (2020-10-30)
+- 0.0.1 (2020-10-30)
+
+## 获取地址
+
+- pub.dev: https://pub.dev/packages/flutter_zalopay_sdk
+- pub 安装: `dart pub add flutter_zalopay_sdk`
+- Flutter 安装: `flutter pub add flutter_zalopay_sdk`
+- 最新版本: 0.1.14
+- 最新版归档: https://pub.dev/api/archives/flutter_zalopay_sdk-0.1.14.tar.gz
+- 版本锁定: `flutter_zalopay_sdk: ^0.1.14`
+- 中央仓库: https://pub.dev/

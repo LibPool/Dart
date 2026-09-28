@@ -1,0 +1,33 @@
+# picture_picker
+
+**Tag**: mobile
+
+## 简介
+
+Flutter native selector works with android and ios.
+
+## 官网
+
+- 主页: https://github.com/Wayaer/picture_picker
+- pub.dev: https://pub.dev/packages/picture_picker
+
+## 历史版本号
+
+- 1.1.1 (2020-12-01)
+- 1.1.0 (2020-12-01)
+- 1.0.0 (2020-05-06)
+- 0.0.5 (2020-05-06)
+- 0.0.4 (2020-05-06)
+- 0.0.3 (2020-05-06)
+- 0.0.2 (2020-05-06)
+- 0.0.1 (2020-05-06)
+
+## 获取地址
+
+- pub.dev: https://pub.dev/packages/picture_picker
+- pub 安装: `dart pub add picture_picker`
+- Flutter 安装: `flutter pub add picture_picker`
+- 最新版本: 1.1.1
+- 最新版归档: https://pub.dev/api/archives/picture_picker-1.1.1.tar.gz
+- 版本锁定: `picture_picker: ^1.1.1`
+- 中央仓库: https://pub.dev/

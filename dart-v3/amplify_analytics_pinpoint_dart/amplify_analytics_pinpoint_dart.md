@@ -1,0 +1,78 @@
+# amplify_analytics_pinpoint_dart
+
+**Tag**: library
+
+## 简介
+
+A Dart-only implementation of the Amplify Analytics plugin for Pinpoint.
+
+## 官网
+
+- 主页: https://docs.amplify.aws/lib/q/platform/flutter/
+- 源码仓库: https://github.com/aws-amplify/amplify-flutter/tree/main/packages/analytics/amplify_analytics_pinpoint_dart
+- 问题追踪: https://github.com/aws-amplify/amplify-flutter/issues
+- pub.dev: https://pub.dev/packages/amplify_analytics_pinpoint_dart
+
+## 历史版本号
+
+- 0.4.21 (2026-08-19)
+- 0.4.20 (2026-07-31)
+- 0.4.19 (2026-07-23)
+- 0.4.18 (2026-07-21)
+- 0.4.17 (2026-06-30)
+- 0.4.16 (2026-04-23)
+- 0.4.15 (2026-02-06)
+- 0.4.14 (2026-01-13)
+- 0.4.13 (2025-12-09)
+- 0.4.12 (2025-10-14)
+- 0.4.11 (2025-07-01)
+- 0.4.10 (2025-06-17)
+- 0.4.9 (2025-05-29)
+- 0.4.8 (2025-03-07)
+- 0.4.7 (2025-01-14)
+- 0.4.6 (2024-11-01)
+- 0.4.5 (2024-08-28)
+- 0.4.4 (2024-08-20)
+- 0.4.3 (2024-07-17)
+- 0.4.2 (2024-06-27)
+- 0.4.1 (2024-06-04)
+- 0.4.0 (2024-05-07)
+- 0.3.8 (2024-04-17)
+- 0.3.7 (2024-03-04)
+- 0.3.6 (2024-02-01)
+- 0.3.5 (2023-12-06)
+- 0.3.4 (2023-11-06)
+- 0.3.3 (2023-10-30)
+- 0.3.2 (2023-10-25)
+- 0.3.1 (2023-09-22)
+- 0.3.0+7 (2023-08-29)
+- 0.3.0+6 (2023-08-17)
+- 0.3.0+5 (2023-08-14)
+- 0.3.0+4 (2023-08-07)
+- 0.3.0+3 (2023-07-28)
+- 0.3.0+2 (2023-07-07)
+- 0.3.0+1 (2023-06-20)
+- 0.3.0 (2023-05-11)
+- 0.2.0+3 (2023-04-26)
+- 0.2.0+2 (2023-04-17)
+- 0.2.0+1 (2023-04-12)
+- 0.2.0 (2023-04-11)
+- 0.1.4+3 (2023-03-22)
+- 0.1.4+2 (2023-03-07)
+- 0.1.4+1 (2023-02-21)
+- 0.1.4 (2023-02-17)
+- 0.1.3 (2023-01-30)
+- 0.1.2+1 (2023-01-09)
+- 0.1.2 (2022-12-08)
+- 0.1.1 (2022-11-30)
+- 0.1.0 (2022-11-16)
+
+## 获取地址
+
+- pub.dev: https://pub.dev/packages/amplify_analytics_pinpoint_dart
+- pub 安装: `dart pub add amplify_analytics_pinpoint_dart`
+- Flutter 安装: `flutter pub add amplify_analytics_pinpoint_dart`
+- 最新版本: 0.4.21
+- 最新版归档: https://pub.dev/api/archives/amplify_analytics_pinpoint_dart-0.4.21.tar.gz
+- 版本锁定: `amplify_analytics_pinpoint_dart: ^0.4.21`
+- 中央仓库: https://pub.dev/

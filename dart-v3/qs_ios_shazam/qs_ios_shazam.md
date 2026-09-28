@@ -1,0 +1,30 @@
+# qs_ios_shazam
+
+**Tag**: mobile
+
+## 简介
+
+使用 ShazamKit 实现 iOS 端听歌识曲的 Flutter 插件。
+
+## 官网
+
+- 主页: https://github.com/FallPine-Flutter/qs_ios_shazam
+- pub.dev: https://pub.dev/packages/qs_ios_shazam
+
+## 历史版本号
+
+- 1.0.3 (2026-09-16)
+- 1.0.2 (2026-03-18)
+- 1.0.1 (2026-03-17)
+- 1.0.0 (2026-03-06)
+- 0.0.1 (2025-10-09)
+
+## 获取地址
+
+- pub.dev: https://pub.dev/packages/qs_ios_shazam
+- pub 安装: `dart pub add qs_ios_shazam`
+- Flutter 安装: `flutter pub add qs_ios_shazam`
+- 最新版本: 1.0.3
+- 最新版归档: https://pub.dev/api/archives/qs_ios_shazam-1.0.3.tar.gz
+- 版本锁定: `qs_ios_shazam: ^1.0.3`
+- 中央仓库: https://pub.dev/

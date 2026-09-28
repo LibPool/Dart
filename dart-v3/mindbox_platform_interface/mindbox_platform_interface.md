@@ -1,0 +1,63 @@
+# mindbox_platform_interface
+
+**Tag**: library
+
+## 简介
+
+Mindbox platform interface.
+
+## 官网
+
+- 主页: https://mindbox.cloud/
+- 源码仓库: https://github.com/mindbox-cloud/flutter-sdk/tree/master/mindbox_platform_interface
+- pub.dev: https://pub.dev/packages/mindbox_platform_interface
+
+## 历史版本号
+
+- 2.15.3 (2026-08-26)
+- 2.15.2 (2026-05-27)
+- 2.15.1 (2026-05-14)
+- 2.15.0 (2026-04-08)
+- 2.14.5 (2026-01-23)
+- 2.14.4 (2025-12-26)
+- 2.14.3 (2025-11-25)
+- 2.14.2 (2025-11-05)
+- 2.14.1 (2025-09-12)
+- 2.14.0 (2025-08-27)
+- 2.14.0-rc (2025-07-28)
+- 2.13.5-rc (2025-07-25)
+- 2.13.4 (2025-06-24)
+- 2.13.2-rc (2025-04-25)
+- 2.13.1 (2025-04-03)
+- 2.13.0 (2025-03-13)
+- 2.11.0 (2024-09-12)
+- 2.10.2-rc (2024-08-13)
+- 2.10.1 (2024-07-11)
+- 2.10.0 (2024-06-13)
+- 2.9.1 (2024-05-03)
+- 2.8.5 (2024-04-05)
+- 2.9.0-rc (2024-04-03)
+- 2.8.4 (2024-03-27)
+- 2.8.3 (2024-02-29)
+- 2.8.2 (2023-12-15)
+- 2.8.1 (2023-11-22)
+- 2.8.0 (2023-10-06)
+- 2.8.0-rc (2023-09-27)
+- 2.2.0 (2023-05-03)
+- 2.1.1 (2022-11-14)
+- 2.1.0 (2022-04-29)
+- 2.0.0 (2022-04-27)
+- 1.0.1 (2022-03-21)
+- 1.0.0 (2021-11-19)
+- 0.2.0 (2021-11-15)
+- 0.1.0 (2021-11-03)
+
+## 获取地址
+
+- pub.dev: https://pub.dev/packages/mindbox_platform_interface
+- pub 安装: `dart pub add mindbox_platform_interface`
+- Flutter 安装: `flutter pub add mindbox_platform_interface`
+- 最新版本: 2.15.3
+- 最新版归档: https://pub.dev/api/archives/mindbox_platform_interface-2.15.3.tar.gz
+- 版本锁定: `mindbox_platform_interface: ^2.15.3`
+- 中央仓库: https://pub.dev/

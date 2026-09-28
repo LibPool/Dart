@@ -1,0 +1,28 @@
+# dartian_i18n
+
+**Tag**: i18n, internationalization, localization, translation
+
+## 简介
+
+Internationalization (i18n) support for Dartian with locale management and translation helpers
+
+## 官网
+
+- 主页: https://github.com/verseles/dartian
+- 源码仓库: https://github.com/verseles/dartian/tree/main/packages/dartian_i18n
+- 问题追踪: https://github.com/verseles/dartian/issues
+- pub.dev: https://pub.dev/packages/dartian_i18n
+
+## 历史版本号
+
+- 1.0.0 (2025-11-22)
+
+## 获取地址
+
+- pub.dev: https://pub.dev/packages/dartian_i18n
+- pub 安装: `dart pub add dartian_i18n`
+- Flutter 安装: `flutter pub add dartian_i18n`
+- 最新版本: 1.0.0
+- 最新版归档: https://pub.dev/api/archives/dartian_i18n-1.0.0.tar.gz
+- 版本锁定: `dartian_i18n: ^1.0.0`
+- 中央仓库: https://pub.dev/

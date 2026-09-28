@@ -1,0 +1,29 @@
+# sbt_encrypt
+
+**Tag**: security
+
+## 简介
+
+SBT encryt
+
+## 官网
+
+- 主页: https://github.com/stonega/sbt_encrypt
+- pub.dev: https://pub.dev/packages/sbt_encrypt
+
+## 历史版本号
+
+- 0.2.0 (2023-03-14)
+- 0.1.4 (2023-03-07)
+- 0.1.3 (2022-10-21)
+- 0.1.2 (2022-10-21)
+
+## 获取地址
+
+- pub.dev: https://pub.dev/packages/sbt_encrypt
+- pub 安装: `dart pub add sbt_encrypt`
+- Flutter 安装: `flutter pub add sbt_encrypt`
+- 最新版本: 0.2.0
+- 最新版归档: https://pub.dev/api/archives/sbt_encrypt-0.2.0.tar.gz
+- 版本锁定: `sbt_encrypt: ^0.2.0`
+- 中央仓库: https://pub.dev/

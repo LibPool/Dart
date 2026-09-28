@@ -1,0 +1,29 @@
+# qianduo_midjourney_api
+
+**Tag**: midjourney, ai, image-generation, web
+
+## 简介
+
+A Dart package for interacting with QianDuoDuo's MidJourney API service. Generate, upscale images and monitor task status through MidJourney's API service.
+
+## 官网
+
+- 主页: https://github.com/lukefan/midjourney_api_package
+- pub.dev: https://pub.dev/packages/qianduo_midjourney_api
+
+## 历史版本号
+
+- 1.0.3 (2025-03-23)
+- 1.0.2 (2025-03-23)
+- 1.0.1 (2025-03-23)
+- 1.0.0 (2025-03-23)
+
+## 获取地址
+
+- pub.dev: https://pub.dev/packages/qianduo_midjourney_api
+- pub 安装: `dart pub add qianduo_midjourney_api`
+- Flutter 安装: `flutter pub add qianduo_midjourney_api`
+- 最新版本: 1.0.3
+- 最新版归档: https://pub.dev/api/archives/qianduo_midjourney_api-1.0.3.tar.gz
+- 版本锁定: `qianduo_midjourney_api: ^1.0.3`
+- 中央仓库: https://pub.dev/

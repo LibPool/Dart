@@ -1,0 +1,34 @@
+# best_theme
+
+**Tag**: mobile, ui
+
+## 简介
+
+Theme management package for Flutter with light and dark mode support.
+
+## 官网
+
+- 主页: https://github.com/dosty17/best_theme/tree/main/best_theme
+- pub.dev: https://pub.dev/packages/best_theme
+
+## 历史版本号
+
+- 3.0.0 (2026-06-19)
+- 2.0.0 (2026-03-06)
+- 1.0.2 (2025-11-15)
+- 1.0.1 (2025-10-29)
+- 1.0.0 (2025-10-29)
+- 0.0.4 (2025-09-09)
+- 0.0.3 (2025-01-19)
+- 0.0.2 (2024-12-29)
+- 0.0.1 (2024-12-25)
+
+## 获取地址
+
+- pub.dev: https://pub.dev/packages/best_theme
+- pub 安装: `dart pub add best_theme`
+- Flutter 安装: `flutter pub add best_theme`
+- 最新版本: 3.0.0
+- 最新版归档: https://pub.dev/api/archives/best_theme-3.0.0.tar.gz
+- 版本锁定: `best_theme: ^3.0.0`
+- 中央仓库: https://pub.dev/

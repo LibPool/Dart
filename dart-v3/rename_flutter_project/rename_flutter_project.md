@@ -1,0 +1,28 @@
+# rename_flutter_project
+
+**Tag**: mobile, tooling
+
+## 简介
+
+A CLI to rename a Flutter project's name, imports, and folder.
+
+## 官网
+
+- 源码仓库: https://github.com/hassanMohammedDEV/rename_flutter_project_cli.git
+- pub.dev: https://pub.dev/packages/rename_flutter_project
+
+## 历史版本号
+
+- 1.0.2 (2025-05-06)
+- 1.0.1 (2025-05-05)
+- 1.0.0 (2025-05-05)
+
+## 获取地址
+
+- pub.dev: https://pub.dev/packages/rename_flutter_project
+- pub 安装: `dart pub add rename_flutter_project`
+- Flutter 安装: `flutter pub add rename_flutter_project`
+- 最新版本: 1.0.2
+- 最新版归档: https://pub.dev/api/archives/rename_flutter_project-1.0.2.tar.gz
+- 版本锁定: `rename_flutter_project: ^1.0.2`
+- 中央仓库: https://pub.dev/

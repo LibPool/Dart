@@ -1,0 +1,30 @@
+# reacton
+
+**Tag**: state-management
+
+## 简介
+
+A novel reactive graph engine for Dart. Fine-grained state management with reactons, computed values, effects, state branching, time-travel, and more.
+
+## 官网
+
+- 主页: https://github.com/sitharaj88/reacton
+- 问题追踪: https://github.com/sitharaj88/reacton/issues
+- pub.dev: https://pub.dev/packages/reacton
+
+## 历史版本号
+
+- 0.2.0 (2026-04-23)
+- 0.1.2 (2026-02-26)
+- 0.1.1 (2026-02-26)
+- 0.1.0 (2026-02-26)
+
+## 获取地址
+
+- pub.dev: https://pub.dev/packages/reacton
+- pub 安装: `dart pub add reacton`
+- Flutter 安装: `flutter pub add reacton`
+- 最新版本: 0.2.0
+- 最新版归档: https://pub.dev/api/archives/reacton-0.2.0.tar.gz
+- 版本锁定: `reacton: ^0.2.0`
+- 中央仓库: https://pub.dev/

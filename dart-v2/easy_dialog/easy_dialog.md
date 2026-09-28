@@ -1,0 +1,33 @@
+# easy_dialog
+
+**Tag**: library
+
+## 简介
+
+Easy Dialog package helps you easily create basic or custom dialogs.
+
+## 官网
+
+- 主页: https://github.com/ricardonior29/easy_dialog
+- pub.dev: https://pub.dev/packages/easy_dialog
+
+## 历史版本号
+
+- 1.1.1 (2022-10-14)
+- 1.1.0 (2021-06-24)
+- 1.0.5 (2019-07-01)
+- 1.0.4 (2019-05-09)
+- 1.0.3 (2019-05-05)
+- 1.0.2 (2019-05-05)
+- 1.0.1 (2019-05-04)
+- 1.0.0 (2019-05-04)
+
+## 获取地址
+
+- pub.dev: https://pub.dev/packages/easy_dialog
+- pub 安装: `dart pub add easy_dialog`
+- Flutter 安装: `flutter pub add easy_dialog`
+- 最新版本: 1.1.1
+- 最新版归档: https://pub.dev/api/archives/easy_dialog-1.1.1.tar.gz
+- 版本锁定: `easy_dialog: ^1.1.1`
+- 中央仓库: https://pub.dev/

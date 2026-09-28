@@ -1,0 +1,28 @@
+# flutter_extended_wordpress
+
+**Tag**: web, mobile
+
+## 简介
+
+Expandable WordPress REST API v2 with Flutter. This library can be expanded custom post types.
+
+## 官网
+
+- 主页: https://github.com/ClareKang/flutter_extended_wordpress
+- pub.dev: https://pub.dev/packages/flutter_extended_wordpress
+
+## 历史版本号
+
+- 0.0.3 (2020-08-20)
+- 0.0.2 (2020-08-20)
+- 0.0.1 (2020-08-06)
+
+## 获取地址
+
+- pub.dev: https://pub.dev/packages/flutter_extended_wordpress
+- pub 安装: `dart pub add flutter_extended_wordpress`
+- Flutter 安装: `flutter pub add flutter_extended_wordpress`
+- 最新版本: 0.0.3
+- 最新版归档: https://pub.dev/api/archives/flutter_extended_wordpress-0.0.3.tar.gz
+- 版本锁定: `flutter_extended_wordpress: ^0.0.3`
+- 中央仓库: https://pub.dev/

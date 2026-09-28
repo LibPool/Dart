@@ -1,0 +1,27 @@
+# qs_storage_tool
+
+**Tag**: library
+
+## 简介
+
+一个依赖shared_preferences的本地存储插件
+
+## 官网
+
+- 主页: https://github.com/fallpine/qs_storage_tool
+- pub.dev: https://pub.dev/packages/qs_storage_tool
+
+## 历史版本号
+
+- 1.0.0 (2026-09-16)
+- 0.0.1 (2025-12-04)
+
+## 获取地址
+
+- pub.dev: https://pub.dev/packages/qs_storage_tool
+- pub 安装: `dart pub add qs_storage_tool`
+- Flutter 安装: `flutter pub add qs_storage_tool`
+- 最新版本: 1.0.0
+- 最新版归档: https://pub.dev/api/archives/qs_storage_tool-1.0.0.tar.gz
+- 版本锁定: `qs_storage_tool: ^1.0.0`
+- 中央仓库: https://pub.dev/

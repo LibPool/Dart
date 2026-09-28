@@ -1,0 +1,32 @@
+# flutter_shortcut_plus
+
+**Tag**: mobile
+
+## 简介
+
+Flutter plugin for creating static & dynamic app/conversation shortcuts on home screen. Supports iOS android.
+
+## 官网
+
+- 主页: https://github.com/tayoji-io/flutter_shortcut
+- 问题追踪: https://github.com/tayoji-io/flutter_shortcut/issues
+- pub.dev: https://pub.dev/packages/flutter_shortcut_plus
+
+## 历史版本号
+
+- 1.1.2 (2026-08-10)
+- 1.1.0 (2026-08-10)
+- 1.0.1 (2024-07-02)
+- 1.0.0 (2024-07-01)
+- 0.0.2 (2024-07-01)
+- 0.0.1 (2024-07-01)
+
+## 获取地址
+
+- pub.dev: https://pub.dev/packages/flutter_shortcut_plus
+- pub 安装: `dart pub add flutter_shortcut_plus`
+- Flutter 安装: `flutter pub add flutter_shortcut_plus`
+- 最新版本: 1.1.2
+- 最新版归档: https://pub.dev/api/archives/flutter_shortcut_plus-1.1.2.tar.gz
+- 版本锁定: `flutter_shortcut_plus: ^1.1.2`
+- 中央仓库: https://pub.dev/

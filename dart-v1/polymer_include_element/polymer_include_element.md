@@ -1,0 +1,34 @@
+# polymer_include_element
+
+**Tag**: library
+
+## 简介
+
+Include an html element
+
+## 官网
+
+- 主页: https://github.com/walletek/polymer_include_element
+- pub.dev: https://pub.dev/packages/polymer_include_element
+
+## 历史版本号
+
+- 0.0.9 (2016-01-05)
+- 0.0.8 (2015-12-27)
+- 0.0.7 (2015-12-23)
+- 0.0.6 (2015-12-12)
+- 0.0.5 (2015-10-19)
+- 0.0.4 (2015-10-19)
+- 0.0.3 (2015-10-15)
+- 0.0.2 (2015-10-09)
+- 0.0.1 (2015-10-09)
+
+## 获取地址
+
+- pub.dev: https://pub.dev/packages/polymer_include_element
+- pub 安装: `dart pub add polymer_include_element`
+- Flutter 安装: `flutter pub add polymer_include_element`
+- 最新版本: 0.0.9
+- 最新版归档: https://pub.dev/api/archives/polymer_include_element-0.0.9.tar.gz
+- 版本锁定: `polymer_include_element: ^0.0.9`
+- 中央仓库: https://pub.dev/

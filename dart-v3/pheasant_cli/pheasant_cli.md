@@ -1,0 +1,31 @@
+# pheasant_cli
+
+**Tag**: tooling
+
+## 简介
+
+The official cli for running, creating and working with Pheasant projects and applications.
+
+## 官网
+
+- 源码仓库: https://github.com/pheasantframework/pheasant/pheasant_cli
+- pub.dev: https://pub.dev/packages/pheasant_cli
+
+## 历史版本号
+
+- 0.1.0-extended (2024-04-17)
+- 0.1.0-beta.2 (2024-03-09)
+- 0.1.0-beta.1 (2024-03-08)
+- 0.1.0-beta (2024-03-06)
+- 0.1.0-alpha.1 (2024-02-11)
+- 0.1.0-alpha (2024-01-14)
+
+## 获取地址
+
+- pub.dev: https://pub.dev/packages/pheasant_cli
+- pub 安装: `dart pub add pheasant_cli`
+- Flutter 安装: `flutter pub add pheasant_cli`
+- 最新版本: 0.1.0-extended
+- 最新版归档: https://pub.dev/api/archives/pheasant_cli-0.1.0-extended.tar.gz
+- 版本锁定: `pheasant_cli: ^0.1.0-extended`
+- 中央仓库: https://pub.dev/

@@ -1,0 +1,33 @@
+# realwear_voice_command
+
+**Tag**: library
+
+## 简介
+
+RealWear Voice Command Plugin.
+
+## 官网
+
+- 主页: https://gitlab.com/sugadev/libs/frontend/realwear-voice-command-flutter
+- pub.dev: https://pub.dev/packages/realwear_voice_command
+
+## 历史版本号
+
+- 1.2.1 (2025-09-26)
+- 1.2.0 (2025-09-25)
+- 1.1.0 (2023-02-09)
+- 1.0.1 (2022-11-02)
+- 1.0.0 (2022-10-06)
+- 0.2.0 (2021-10-15)
+- 0.1.1 (2021-10-05)
+- 0.1.0 (2021-09-25)
+
+## 获取地址
+
+- pub.dev: https://pub.dev/packages/realwear_voice_command
+- pub 安装: `dart pub add realwear_voice_command`
+- Flutter 安装: `flutter pub add realwear_voice_command`
+- 最新版本: 1.2.1
+- 最新版归档: https://pub.dev/api/archives/realwear_voice_command-1.2.1.tar.gz
+- 版本锁定: `realwear_voice_command: ^1.2.1`
+- 中央仓库: https://pub.dev/

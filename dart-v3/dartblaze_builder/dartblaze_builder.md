@@ -1,0 +1,30 @@
+# dartblaze_builder
+
+**Tag**: ui, tooling
+
+## 简介
+
+Code generator for DartBlaze.
+
+## 官网
+
+- 主页: https://dartblaze.com/
+- 源码仓库: https://github.com/dinko7/dartblaze
+- pub.dev: https://pub.dev/packages/dartblaze_builder
+
+## 历史版本号
+
+- 0.0.3 (2025-03-13)
+- 0.0.2 (2025-02-08)
+- 0.0.1+1 (2025-01-30)
+- 0.0.1 (2025-01-30)
+
+## 获取地址
+
+- pub.dev: https://pub.dev/packages/dartblaze_builder
+- pub 安装: `dart pub add dartblaze_builder`
+- Flutter 安装: `flutter pub add dartblaze_builder`
+- 最新版本: 0.0.3
+- 最新版归档: https://pub.dev/api/archives/dartblaze_builder-0.0.3.tar.gz
+- 版本锁定: `dartblaze_builder: ^0.0.3`
+- 中央仓库: https://pub.dev/

@@ -1,0 +1,26 @@
+# freezify
+
+**Tag**: library
+
+## 简介
+
+freezify enable freeze(d) 3rd party class.
+
+## 官网
+
+- 主页: https://github.com/azihsoyn/freezify
+- pub.dev: https://pub.dev/packages/freezify
+
+## 历史版本号
+
+- 0.0.1 (2021-02-02)
+
+## 获取地址
+
+- pub.dev: https://pub.dev/packages/freezify
+- pub 安装: `dart pub add freezify`
+- Flutter 安装: `flutter pub add freezify`
+- 最新版本: 0.0.1
+- 最新版归档: https://pub.dev/api/archives/freezify-0.0.1.tar.gz
+- 版本锁定: `freezify: ^0.0.1`
+- 中央仓库: https://pub.dev/

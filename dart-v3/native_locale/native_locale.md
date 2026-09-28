@@ -1,0 +1,29 @@
+# native_locale
+
+**Tag**: mobile
+
+## 简介
+
+A flutter plugin for getting and changing the native platform locale.
+
+## 官网
+
+- 主页: https://github.com/amrahmed242/native_locale
+- pub.dev: https://pub.dev/packages/native_locale
+
+## 历史版本号
+
+- 0.0.4 (2025-05-25)
+- 0.0.3 (2023-11-29)
+- 0.0.2 (2023-11-29)
+- 0.0.1 (2023-11-28)
+
+## 获取地址
+
+- pub.dev: https://pub.dev/packages/native_locale
+- pub 安装: `dart pub add native_locale`
+- Flutter 安装: `flutter pub add native_locale`
+- 最新版本: 0.0.4
+- 最新版归档: https://pub.dev/api/archives/native_locale-0.0.4.tar.gz
+- 版本锁定: `native_locale: ^0.0.4`
+- 中央仓库: https://pub.dev/

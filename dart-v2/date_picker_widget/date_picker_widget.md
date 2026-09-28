@@ -1,0 +1,29 @@
+# date_picker_widget
+
+**Tag**: ui
+
+## 简介
+
+custom cupertino date picker widget. you can use cupertino date picker as a widget.
+
+## 官网
+
+- 源码仓库: https://github.com/praveen576232/date_picker-widget
+- pub.dev: https://pub.dev/packages/date_picker_widget
+
+## 历史版本号
+
+- 0.0.4 (2022-09-09)
+- 0.0.3 (2022-09-09)
+- 0.0.2 (2022-09-09)
+- 0.0.1 (2022-09-09)
+
+## 获取地址
+
+- pub.dev: https://pub.dev/packages/date_picker_widget
+- pub 安装: `dart pub add date_picker_widget`
+- Flutter 安装: `flutter pub add date_picker_widget`
+- 最新版本: 0.0.4
+- 最新版归档: https://pub.dev/api/archives/date_picker_widget-0.0.4.tar.gz
+- 版本锁定: `date_picker_widget: ^0.0.4`
+- 中央仓库: https://pub.dev/

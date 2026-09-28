@@ -1,0 +1,29 @@
+# nano_payment_gateway
+
+**Tag**: mobile
+
+## 简介
+
+A Flutter package allows you to easily implement the payment gateway integration.
+
+## 官网
+
+- 主页: https://github.com/oma-nano/omapay_app_plugin
+- pub.dev: https://pub.dev/packages/nano_payment_gateway
+
+## 历史版本号
+
+- 0.2.2 (2023-11-21)
+- 0.2.1 (2023-11-21)
+- 0.2.0 (2023-11-21)
+- 0.1.0 (2023-10-30)
+
+## 获取地址
+
+- pub.dev: https://pub.dev/packages/nano_payment_gateway
+- pub 安装: `dart pub add nano_payment_gateway`
+- Flutter 安装: `flutter pub add nano_payment_gateway`
+- 最新版本: 0.2.2
+- 最新版归档: https://pub.dev/api/archives/nano_payment_gateway-0.2.2.tar.gz
+- 版本锁定: `nano_payment_gateway: ^0.2.2`
+- 中央仓库: https://pub.dev/

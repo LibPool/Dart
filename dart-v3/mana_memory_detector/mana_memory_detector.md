@@ -1,0 +1,26 @@
+# mana_memory_detector
+
+**Tag**: library
+
+## 简介
+
+Mana Memory Detector plugin
+
+## 官网
+
+- 主页: https://github.com/charles0122/flutter_mana
+- pub.dev: https://pub.dev/packages/mana_memory_detector
+
+## 历史版本号
+
+- 1.0.0 (2025-11-23)
+
+## 获取地址
+
+- pub.dev: https://pub.dev/packages/mana_memory_detector
+- pub 安装: `dart pub add mana_memory_detector`
+- Flutter 安装: `flutter pub add mana_memory_detector`
+- 最新版本: 1.0.0
+- 最新版归档: https://pub.dev/api/archives/mana_memory_detector-1.0.0.tar.gz
+- 版本锁定: `mana_memory_detector: ^1.0.0`
+- 中央仓库: https://pub.dev/

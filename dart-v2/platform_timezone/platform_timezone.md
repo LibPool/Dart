@@ -1,0 +1,27 @@
+# platform_timezone
+
+**Tag**: mobile
+
+## 简介
+
+A flutter plugin for getting the platform timezone.
+
+## 官网
+
+- 主页: https://github.com/tzh-goon/platform_timezone
+- pub.dev: https://pub.dev/packages/platform_timezone
+
+## 历史版本号
+
+- 1.0.1 (2020-07-02)
+- 1.0.0 (2020-07-01)
+
+## 获取地址
+
+- pub.dev: https://pub.dev/packages/platform_timezone
+- pub 安装: `dart pub add platform_timezone`
+- Flutter 安装: `flutter pub add platform_timezone`
+- 最新版本: 1.0.1
+- 最新版归档: https://pub.dev/api/archives/platform_timezone-1.0.1.tar.gz
+- 版本锁定: `platform_timezone: ^1.0.1`
+- 中央仓库: https://pub.dev/

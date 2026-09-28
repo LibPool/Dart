@@ -1,0 +1,28 @@
+# can_codec
+
+**Tag**: can-bus, codec, j1939
+
+## 简介
+
+Protocol-agnostic CAN bus message codec. Bit-level decoder/encoder with NA/OOR sentinel handling for NMEA 2000, RV-C, and J1939.
+
+## 官网
+
+- 主页: https://github.com/jwinarske/can_dart
+- 源码仓库: https://github.com/jwinarske/can_dart/tree/main/packages/can_codec
+- 问题追踪: https://github.com/jwinarske/can_dart/issues
+- pub.dev: https://pub.dev/packages/can_codec
+
+## 历史版本号
+
+- 0.1.3 (2026-04-17)
+
+## 获取地址
+
+- pub.dev: https://pub.dev/packages/can_codec
+- pub 安装: `dart pub add can_codec`
+- Flutter 安装: `flutter pub add can_codec`
+- 最新版本: 0.1.3
+- 最新版归档: https://pub.dev/api/archives/can_codec-0.1.3.tar.gz
+- 版本锁定: `can_codec: ^0.1.3`
+- 中央仓库: https://pub.dev/

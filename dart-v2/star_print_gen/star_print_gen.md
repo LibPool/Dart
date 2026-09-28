@@ -1,0 +1,36 @@
+# star_print_gen
+
+**Tag**: library
+
+## 简介
+
+Gendroid Print Start Micronics
+
+## 官网
+
+- 主页: https://github.com/JuliioAlbert/star_print_gen.git
+- pub.dev: https://pub.dev/packages/star_print_gen
+
+## 历史版本号
+
+- 0.2.0 (2023-07-06)
+- 0.1.0 (2021-10-27)
+- 0.0.9 (2021-09-27)
+- 0.0.8 (2021-08-18)
+- 0.0.7 (2021-08-17)
+- 0.0.6 (2021-08-17)
+- 0.0.5 (2021-06-14)
+- 0.0.4 (2021-06-04)
+- 0.0.3 (2021-06-04)
+- 0.0.2 (2021-06-03)
+- 0.0.1 (2021-06-03)
+
+## 获取地址
+
+- pub.dev: https://pub.dev/packages/star_print_gen
+- pub 安装: `dart pub add star_print_gen`
+- Flutter 安装: `flutter pub add star_print_gen`
+- 最新版本: 0.2.0
+- 最新版归档: https://pub.dev/api/archives/star_print_gen-0.2.0.tar.gz
+- 版本锁定: `star_print_gen: ^0.2.0`
+- 中央仓库: https://pub.dev/

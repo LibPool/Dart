@@ -1,0 +1,29 @@
+# dart_bip66
+
+**Tag**: library
+
+## 简介
+
+Strict DER signatures. Dart package for BIP66 DER signatures encoding/decoding.
+
+## 官网
+
+- 主页: https://github.com/dart-bitcoin-lib/dart-bip66
+- 问题追踪: https://github.com/dart-bitcoin-lib/dart-bip66/issues
+- pub.dev: https://pub.dev/packages/dart_bip66
+
+## 历史版本号
+
+- 2.0.1 (2021-10-22)
+- 2.0.0 (2021-10-22)
+- 1.0.0 (2021-10-16)
+
+## 获取地址
+
+- pub.dev: https://pub.dev/packages/dart_bip66
+- pub 安装: `dart pub add dart_bip66`
+- Flutter 安装: `flutter pub add dart_bip66`
+- 最新版本: 2.0.1
+- 最新版归档: https://pub.dev/api/archives/dart_bip66-2.0.1.tar.gz
+- 版本锁定: `dart_bip66: ^2.0.1`
+- 中央仓库: https://pub.dev/

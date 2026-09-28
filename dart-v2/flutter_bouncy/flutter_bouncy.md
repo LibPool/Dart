@@ -1,0 +1,46 @@
+# flutter_bouncy
+
+**Tag**: mobile
+
+## 简介
+
+Scrolling with bouncy and natural item movement
+
+## 官网
+
+- 主页: https://github.com/pstromberg98/flutter_bouncy
+- pub.dev: https://pub.dev/packages/flutter_bouncy
+
+## 历史版本号
+
+- 2.0.0-dev.5 (2022-10-23)
+- 2.0.0-dev.4 (2022-10-23)
+- 2.0.0-dev.3 (2022-10-18)
+- 2.0.0-dev.2 (2022-10-17)
+- 2.0.0-dev.1 (2022-10-17)
+- 1.0.1 (2021-01-18)
+- 1.0.0 (2021-01-13)
+- 0.0.15 (2021-01-13)
+- 0.0.14 (2021-01-12)
+- 0.0.13 (2021-01-11)
+- 0.0.12 (2021-01-11)
+- 0.0.11 (2021-01-11)
+- 0.0.10 (2021-01-11)
+- 0.0.9 (2021-01-10)
+- 0.0.8 (2021-01-10)
+- 0.0.6 (2021-01-10)
+- 0.0.5 (2021-01-10)
+- 0.0.4 (2021-01-10)
+- 0.0.3 (2021-01-10)
+- 0.0.2 (2021-01-06)
+- 0.0.1 (2021-01-06)
+
+## 获取地址
+
+- pub.dev: https://pub.dev/packages/flutter_bouncy
+- pub 安装: `dart pub add flutter_bouncy`
+- Flutter 安装: `flutter pub add flutter_bouncy`
+- 最新版本: 1.0.1
+- 最新版归档: https://pub.dev/api/archives/flutter_bouncy-1.0.1.tar.gz
+- 版本锁定: `flutter_bouncy: ^1.0.1`
+- 中央仓库: https://pub.dev/

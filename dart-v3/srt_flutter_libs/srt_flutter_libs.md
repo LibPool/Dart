@@ -1,0 +1,25 @@
+# srt_flutter_libs
+
+**Tag**: mobile
+
+## 简介
+
+A extencion of srt_dart to offer the library libsrt to flutter. And a safe dispose/cleanup in lifecycle of the App
+
+## 官网
+
+- pub.dev: https://pub.dev/packages/srt_flutter_libs
+
+## 历史版本号
+
+- 1.0.0 (2026-02-25)
+
+## 获取地址
+
+- pub.dev: https://pub.dev/packages/srt_flutter_libs
+- pub 安装: `dart pub add srt_flutter_libs`
+- Flutter 安装: `flutter pub add srt_flutter_libs`
+- 最新版本: 1.0.0
+- 最新版归档: https://pub.dev/api/archives/srt_flutter_libs-1.0.0.tar.gz
+- 版本锁定: `srt_flutter_libs: ^1.0.0`
+- 中央仓库: https://pub.dev/

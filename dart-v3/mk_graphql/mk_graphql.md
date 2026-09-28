@@ -1,0 +1,44 @@
+# mk_graphql
+
+**Tag**: graphql, flutter, client, sse, dio, mobile, tooling
+
+## 简介
+
+A clean, modern, simplified GraphQL client for Dart & Flutter with normalized caching, composable links, and stream-based operation execution.
+
+## 官网
+
+- 主页: https://github.com/kishormainali/mk_graphql
+- 源码仓库: https://github.com/kishormainali/mk_graphql/tree/main/packages/mk_graphql
+- 问题追踪: https://github.com/kishormainali/mk_graphql/issues
+- pub.dev: https://pub.dev/packages/mk_graphql
+
+## 历史版本号
+
+- 1.2.1-dev.7 (2026-09-26)
+- 1.2.1-dev.6 (2026-09-25)
+- 1.2.1-dev.5 (2026-09-20)
+- 1.2.1-dev.4 (2026-09-20)
+- 1.2.1-dev.3 (2026-09-19)
+- 1.2.1-dev.2 (2026-09-15)
+- 1.2.1-dev.1 (2026-09-15)
+- 1.2.1-dev.0 (2026-09-15)
+- 1.2.0 (2026-09-13)
+- 1.1.0 (2026-09-13)
+- 1.0.1 (2026-09-11)
+- 1.0.0 (2026-09-11)
+- 0.0.5 (2023-11-12)
+- 0.0.4 (2023-06-10)
+- 0.0.3 (2023-05-08)
+- 0.0.2 (2023-03-07)
+- 0.0.1 (2023-03-07)
+
+## 获取地址
+
+- pub.dev: https://pub.dev/packages/mk_graphql
+- pub 安装: `dart pub add mk_graphql`
+- Flutter 安装: `flutter pub add mk_graphql`
+- 最新版本: 1.2.0
+- 最新版归档: https://pub.dev/api/archives/mk_graphql-1.2.0.tar.gz
+- 版本锁定: `mk_graphql: ^1.2.0`
+- 中央仓库: https://pub.dev/

@@ -1,0 +1,40 @@
+# ensemble
+
+**Tag**: low-code, runtime, yaml, flutter, ensemble, mobile, ui, serialization, tooling
+
+## 简介
+
+Runtime for building Flutter apps from Ensemble's declarative YAML definitions.
+
+## 官网
+
+- 主页: https://ensembleui.com
+- 源码仓库: https://github.com/EnsembleUI/ensemble
+- 问题追踪: https://github.com/EnsembleUI/ensemble/issues
+- 文档: https://github.com/EnsembleUI/ensemble/tree/main/modules/ensemble#readme
+- pub.dev: https://pub.dev/packages/ensemble
+
+## 历史版本号
+
+- 1.2.55 (2026-09-14)
+- 1.2.55-beta.1 (2026-09-07)
+- 1.2.54 (2026-09-03)
+- 1.2.53 (2026-08-31)
+- 1.2.52 (2026-08-26)
+- 1.2.51 (2026-08-25)
+- 1.2.50-beta.11 (2026-08-23)
+- 1.2.50 (2026-07-23)
+- 1.2.49 (2026-07-02)
+- 1.2.48 (2026-06-28)
+- 1.2.47 (2026-06-27)
+- 1.2.46 (2026-06-26)
+
+## 获取地址
+
+- pub.dev: https://pub.dev/packages/ensemble
+- pub 安装: `dart pub add ensemble`
+- Flutter 安装: `flutter pub add ensemble`
+- 最新版本: 1.2.55
+- 最新版归档: https://pub.dev/api/archives/ensemble-1.2.55.tar.gz
+- 版本锁定: `ensemble: ^1.2.55`
+- 中央仓库: https://pub.dev/

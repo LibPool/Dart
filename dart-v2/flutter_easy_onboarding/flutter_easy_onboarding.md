@@ -1,0 +1,26 @@
+# flutter_easy_onboarding
+
+**Tag**: mobile
+
+## 简介
+
+This package used to easily create the onboarding pages without any depencies, and also easy customization of all the text, colors, butto styles, body images etc...
+
+## 官网
+
+- 主页: https://github.com/SukumarRaja/flutter_easy_onboarding
+- pub.dev: https://pub.dev/packages/flutter_easy_onboarding
+
+## 历史版本号
+
+- 0.0.1 (2022-11-28)
+
+## 获取地址
+
+- pub.dev: https://pub.dev/packages/flutter_easy_onboarding
+- pub 安装: `dart pub add flutter_easy_onboarding`
+- Flutter 安装: `flutter pub add flutter_easy_onboarding`
+- 最新版本: 0.0.1
+- 最新版归档: https://pub.dev/api/archives/flutter_easy_onboarding-0.0.1.tar.gz
+- 版本锁定: `flutter_easy_onboarding: ^0.0.1`
+- 中央仓库: https://pub.dev/

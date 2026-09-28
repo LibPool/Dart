@@ -1,0 +1,31 @@
+# cobalt_go_router
+
+**Tag**: dependency-injection, di, go-router, navigation
+
+## 简介
+
+go_router bindings for Cobalt — dependency scopes whose lifetime is a navigation flow, created on entry and disposed on exit.
+
+## 官网
+
+- 源码仓库: https://github.com/rutikeyone/cobalt
+- 问题追踪: https://github.com/rutikeyone/cobalt/issues
+- pub.dev: https://pub.dev/packages/cobalt_go_router
+
+## 历史版本号
+
+- 0.3.0 (2026-09-25)
+- 0.2.0 (2026-09-23)
+- 0.1.2 (2026-09-06)
+- 0.1.1 (2026-09-06)
+- 0.1.0 (2026-09-05)
+
+## 获取地址
+
+- pub.dev: https://pub.dev/packages/cobalt_go_router
+- pub 安装: `dart pub add cobalt_go_router`
+- Flutter 安装: `flutter pub add cobalt_go_router`
+- 最新版本: 0.3.0
+- 最新版归档: https://pub.dev/api/archives/cobalt_go_router-0.3.0.tar.gz
+- 版本锁定: `cobalt_go_router: ^0.3.0`
+- 中央仓库: https://pub.dev/

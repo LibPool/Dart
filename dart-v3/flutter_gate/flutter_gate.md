@@ -1,0 +1,29 @@
+# flutter_gate
+
+**Tag**: authorization, feature-flags, widgets, policy, mobile, ui, security
+
+## 简介
+
+Flutter widgets and extensions for the flutter_gate policy and feature flag system.
+
+## 官网
+
+- 主页: https://github.com/xentixar/flutter_gate
+- 问题追踪: https://github.com/xentixar/flutter_gate/issues
+- 文档: https://github.com/xentixar/flutter_gate/tree/main/docs
+- pub.dev: https://pub.dev/packages/flutter_gate
+
+## 历史版本号
+
+- 0.1.1 (2026-06-05)
+- 0.1.0 (2026-06-05)
+
+## 获取地址
+
+- pub.dev: https://pub.dev/packages/flutter_gate
+- pub 安装: `dart pub add flutter_gate`
+- Flutter 安装: `flutter pub add flutter_gate`
+- 最新版本: 0.1.1
+- 最新版归档: https://pub.dev/api/archives/flutter_gate-0.1.1.tar.gz
+- 版本锁定: `flutter_gate: ^0.1.1`
+- 中央仓库: https://pub.dev/

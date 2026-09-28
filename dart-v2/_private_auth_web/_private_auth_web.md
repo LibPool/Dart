@@ -1,0 +1,44 @@
+# _private_auth_web
+
+**Tag**: web, security
+
+## 简介
+
+_private_auth_web
+
+## 官网
+
+- pub.dev: https://pub.dev/packages/_private_auth_web
+
+## 历史版本号
+
+- 1.0.1 (2023-03-21)
+- 1.0.0 (2023-03-21)
+- 0.0.18 (2023-03-11)
+- 0.0.17 (2022-12-22)
+- 0.0.16 (2022-12-20)
+- 0.0.15 (2022-12-19)
+- 0.0.14 (2022-12-12)
+- 0.0.13 (2022-12-10)
+- 0.0.12 (2022-12-09)
+- 0.0.11 (2022-12-06)
+- 0.0.10 (2022-12-06)
+- 0.0.9 (2022-12-06)
+- 0.0.8 (2022-12-05)
+- 0.0.7 (2022-12-05)
+- 0.0.6 (2022-12-05)
+- 0.0.5 (2022-12-05)
+- 0.0.4 (2022-12-05)
+- 0.0.3 (2022-12-05)
+- 0.0.2 (2022-12-05)
+- 0.0.1 (2022-12-05)
+
+## 获取地址
+
+- pub.dev: https://pub.dev/packages/_private_auth_web
+- pub 安装: `dart pub add _private_auth_web`
+- Flutter 安装: `flutter pub add _private_auth_web`
+- 最新版本: 1.0.1
+- 最新版归档: https://pub.dev/api/archives/_private_auth_web-1.0.1.tar.gz
+- 版本锁定: `_private_auth_web: ^1.0.1`
+- 中央仓库: https://pub.dev/

@@ -1,0 +1,33 @@
+# charts_shamsi_flutter
+
+**Tag**: mobile, ui
+
+## 简介
+
+Material Design charting library for flutter. Turns Gregorian calender to shamsi if 'fa' locale is detected.
+
+## 官网
+
+- 主页: https://github.com/google/charts
+- pub.dev: https://pub.dev/packages/charts_shamsi_flutter
+
+## 历史版本号
+
+- 1.0.1 (2020-06-30)
+- 1.0.0+6 (2020-06-30)
+- 1.0.0+5 (2020-06-30)
+- 1.0.0+4 (2020-06-30)
+- 1.0.0+3 (2020-06-30)
+- 1.0.0+2 (2020-06-30)
+- 1.0.0+1 (2020-06-30)
+- 1.0.0 (2020-06-30)
+
+## 获取地址
+
+- pub.dev: https://pub.dev/packages/charts_shamsi_flutter
+- pub 安装: `dart pub add charts_shamsi_flutter`
+- Flutter 安装: `flutter pub add charts_shamsi_flutter`
+- 最新版本: 1.0.1
+- 最新版归档: https://pub.dev/api/archives/charts_shamsi_flutter-1.0.1.tar.gz
+- 版本锁定: `charts_shamsi_flutter: ^1.0.1`
+- 中央仓库: https://pub.dev/

@@ -1,0 +1,26 @@
+# numhelpers
+
+**Tag**: web, mobile, ui, networking
+
+## 简介
+
+NumHelpers is a Dart extension that is highly influenced by https://laravel.com/docs/10.x/helpers#numbers provides convenient methods for formatting numbers in various ways, including abbreviations, human-readable formats, currency formatting, percentage formatting, and file size conversion. This extension is particularly useful in Flutter applications where such number formatting is a common requirement.
+
+## 官网
+
+- 源码仓库: https://github.com/westdabestdb/flutter-numhelpers
+- pub.dev: https://pub.dev/packages/numhelpers
+
+## 历史版本号
+
+- 1.0.0 (2023-12-06)
+
+## 获取地址
+
+- pub.dev: https://pub.dev/packages/numhelpers
+- pub 安装: `dart pub add numhelpers`
+- Flutter 安装: `flutter pub add numhelpers`
+- 最新版本: 1.0.0
+- 最新版归档: https://pub.dev/api/archives/numhelpers-1.0.0.tar.gz
+- 版本锁定: `numhelpers: ^1.0.0`
+- 中央仓库: https://pub.dev/

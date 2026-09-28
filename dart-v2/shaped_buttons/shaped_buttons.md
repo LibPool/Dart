@@ -1,0 +1,27 @@
+# shaped_buttons
+
+**Tag**: mobile
+
+## 简介
+
+shaped_buttons is a flutter library that allows you to create parallelogram shaped buttons.
+
+## 官网
+
+- 主页: https://github.com/ibtihaajKhurram/shaped_buttons
+- pub.dev: https://pub.dev/packages/shaped_buttons
+
+## 历史版本号
+
+- 0.0.2 (2021-02-01)
+- 0.0.1 (2021-01-26)
+
+## 获取地址
+
+- pub.dev: https://pub.dev/packages/shaped_buttons
+- pub 安装: `dart pub add shaped_buttons`
+- Flutter 安装: `flutter pub add shaped_buttons`
+- 最新版本: 0.0.2
+- 最新版归档: https://pub.dev/api/archives/shaped_buttons-0.0.2.tar.gz
+- 版本锁定: `shaped_buttons: ^0.0.2`
+- 中央仓库: https://pub.dev/

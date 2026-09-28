@@ -1,0 +1,32 @@
+# sw_data
+
+**Tag**: state-management
+
+## 简介
+
+Spinwheel Data Provider Package
+
+## 官网
+
+- 主页: https://bitbucket.org/spinwheel/flutter-sdk/src/dev/
+- pub.dev: https://pub.dev/packages/sw_data
+
+## 历史版本号
+
+- 0.5.2 (2022-04-13)
+- 0.5.1 (2022-04-11)
+- 0.5.0 (2022-04-11)
+- 0.4.6 (2022-04-08)
+- 0.4.5 (2022-03-11)
+- 0.4.4 (2022-03-10)
+- 0.4.3 (2022-03-10)
+
+## 获取地址
+
+- pub.dev: https://pub.dev/packages/sw_data
+- pub 安装: `dart pub add sw_data`
+- Flutter 安装: `flutter pub add sw_data`
+- 最新版本: 0.5.2
+- 最新版归档: https://pub.dev/api/archives/sw_data-0.5.2.tar.gz
+- 版本锁定: `sw_data: ^0.5.2`
+- 中央仓库: https://pub.dev/

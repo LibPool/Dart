@@ -1,0 +1,31 @@
+# ns_obx
+
+**Tag**: state-management, reactive, getx, obx, rx, mobile
+
+## 简介
+
+A lightweight, high-performance Flutter reactive state management library.
+
+## 官网
+
+- 主页: https://github.com/dongfangwangyou/ns_obx
+- 问题追踪: https://github.com/dongfangwangyou/ns_obx/issues
+- pub.dev: https://pub.dev/packages/ns_obx
+
+## 历史版本号
+
+- 1.0.7 (2026-07-27)
+- 1.0.6 (2026-07-27)
+- 1.0.5 (2026-07-27)
+- 1.0.4 (2026-07-25)
+- 1.0.3 (2026-07-25)
+
+## 获取地址
+
+- pub.dev: https://pub.dev/packages/ns_obx
+- pub 安装: `dart pub add ns_obx`
+- Flutter 安装: `flutter pub add ns_obx`
+- 最新版本: 1.0.7
+- 最新版归档: https://pub.dev/api/archives/ns_obx-1.0.7.tar.gz
+- 版本锁定: `ns_obx: ^1.0.7`
+- 中央仓库: https://pub.dev/

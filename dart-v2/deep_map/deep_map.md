@@ -1,0 +1,27 @@
+# deep_map
+
+**Tag**: library
+
+## 简介
+
+getDeep and setDeep for dart maps
+
+## 官网
+
+- 主页: https://github.com/lesnitsky/deep_map
+- pub.dev: https://pub.dev/packages/deep_map
+
+## 历史版本号
+
+- 1.0.0+1 (2020-04-15)
+- 1.0.0 (2020-04-15)
+
+## 获取地址
+
+- pub.dev: https://pub.dev/packages/deep_map
+- pub 安装: `dart pub add deep_map`
+- Flutter 安装: `flutter pub add deep_map`
+- 最新版本: 1.0.0+1
+- 最新版归档: https://pub.dev/api/archives/deep_map-1.0.0%2B1.tar.gz
+- 版本锁定: `deep_map: ^1.0.0+1`
+- 中央仓库: https://pub.dev/

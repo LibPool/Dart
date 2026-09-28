@@ -1,0 +1,31 @@
+# flutter_image_hash
+
+**Tag**: mobile
+
+## 简介
+
+A comprehensive Flutter package for generating and displaying compact image placeholders using the BlurHash algorithm. Ideal for immediate visual feedback.
+
+## 官网
+
+- 主页: https://github.com/Bhaumik0248/flutter_image_hash
+- 问题追踪: https://github.com/Bhaumik0248/flutter_image_hash/issues
+- pub.dev: https://pub.dev/packages/flutter_image_hash
+
+## 历史版本号
+
+- 1.0.4 (2026-06-16)
+- 1.0.3 (2026-06-16)
+- 1.0.2 (2026-06-16)
+- 1.0.1 (2026-06-13)
+- 1.0.0 (2026-06-13)
+
+## 获取地址
+
+- pub.dev: https://pub.dev/packages/flutter_image_hash
+- pub 安装: `dart pub add flutter_image_hash`
+- Flutter 安装: `flutter pub add flutter_image_hash`
+- 最新版本: 1.0.4
+- 最新版归档: https://pub.dev/api/archives/flutter_image_hash-1.0.4.tar.gz
+- 版本锁定: `flutter_image_hash: ^1.0.4`
+- 中央仓库: https://pub.dev/

@@ -1,0 +1,26 @@
+# flutter_app_group
+
+**Tag**: mobile
+
+## 简介
+
+这是一个iOS使用的AppGroup插件用于设备间数据共享
+
+## 官网
+
+- 主页: https://github.com/MR-MaoJiu/flutterAppGroup.git
+- pub.dev: https://pub.dev/packages/flutter_app_group
+
+## 历史版本号
+
+- 0.0.1 (2022-09-15)
+
+## 获取地址
+
+- pub.dev: https://pub.dev/packages/flutter_app_group
+- pub 安装: `dart pub add flutter_app_group`
+- Flutter 安装: `flutter pub add flutter_app_group`
+- 最新版本: 0.0.1
+- 最新版归档: https://pub.dev/api/archives/flutter_app_group-0.0.1.tar.gz
+- 版本锁定: `flutter_app_group: ^0.0.1`
+- 中央仓库: https://pub.dev/

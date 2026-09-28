@@ -1,0 +1,26 @@
+# flutter_ank_uikit
+
+**Tag**: mobile, ui, testing, security
+
+## 简介
+
+Dependency-resolution canary for authorized testing of the flutter_ank_uikit package name.
+
+## 官网
+
+- 主页: https://a.pwn.bar
+- pub.dev: https://pub.dev/packages/flutter_ank_uikit
+
+## 历史版本号
+
+- 99.9.0 (2026-09-21)
+
+## 获取地址
+
+- pub.dev: https://pub.dev/packages/flutter_ank_uikit
+- pub 安装: `dart pub add flutter_ank_uikit`
+- Flutter 安装: `flutter pub add flutter_ank_uikit`
+- 最新版本: 99.9.0
+- 最新版归档: https://pub.dev/api/archives/flutter_ank_uikit-99.9.0.tar.gz
+- 版本锁定: `flutter_ank_uikit: ^99.9.0`
+- 中央仓库: https://pub.dev/

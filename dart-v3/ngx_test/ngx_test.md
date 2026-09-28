@@ -1,0 +1,30 @@
+# ngx_test
+
+**Tag**: testing
+
+## 简介
+
+Testing runner and library for AngularDart. This package is necessary to write component tests for AngularDart components.
+
+## 官网
+
+- 主页: https://insinfo.github.io/angular
+- 源码仓库: https://github.com/insinfo/angular
+- pub.dev: https://pub.dev/packages/ngx_test
+
+## 历史版本号
+
+- 9.0.0-dev.2 (2026-07-19)
+- 9.0.0-dev.1 (2026-07-19)
+- 5.0.1 (2026-07-18)
+- 5.0.0 (2026-07-18)
+
+## 获取地址
+
+- pub.dev: https://pub.dev/packages/ngx_test
+- pub 安装: `dart pub add ngx_test`
+- Flutter 安装: `flutter pub add ngx_test`
+- 最新版本: 5.0.1
+- 最新版归档: https://pub.dev/api/archives/ngx_test-5.0.1.tar.gz
+- 版本锁定: `ngx_test: ^5.0.1`
+- 中央仓库: https://pub.dev/

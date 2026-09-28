@@ -1,0 +1,37 @@
+# solana_kit_stake
+
+**Tag**: ui, tooling
+
+## 简介
+
+Stake Program instruction builders and account codecs for the Solana Kit Dart SDK.
+
+## 官网
+
+- 主页: https://openbudgetfun.github.io/solana_kit/
+- 源码仓库: https://github.com/openbudgetfun/solana_kit/tree/main/packages/solana_kit_stake
+- pub.dev: https://pub.dev/packages/solana_kit_stake
+
+## 历史版本号
+
+- 0.6.0 (2026-09-20)
+- 0.5.3 (2026-09-12)
+- 0.5.2 (2026-09-06)
+- 0.5.1 (2026-08-30)
+- 0.5.0 (2026-08-30)
+- 0.4.1 (2026-08-19)
+- 0.4.0 (2026-08-18)
+- 0.2.1 (2026-08-13)
+- 0.2.0 (2026-06-03)
+- 0.1.0 (2026-06-01)
+- 0.0.0 (2026-05-31)
+
+## 获取地址
+
+- pub.dev: https://pub.dev/packages/solana_kit_stake
+- pub 安装: `dart pub add solana_kit_stake`
+- Flutter 安装: `flutter pub add solana_kit_stake`
+- 最新版本: 0.6.0
+- 最新版归档: https://pub.dev/api/archives/solana_kit_stake-0.6.0.tar.gz
+- 版本锁定: `solana_kit_stake: ^0.6.0`
+- 中央仓库: https://pub.dev/

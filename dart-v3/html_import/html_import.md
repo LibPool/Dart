@@ -1,0 +1,58 @@
+# html_import
+
+**Tag**: security
+
+## 简介
+
+HTML Imports are a way to include and reuse HTML documents in other HTML documents. As <script> tags let authors include external code in their pages, imports let authors load full HTML resources. In particular, imports let authors include Custom Element definitions from external URLs.
+
+## 官网
+
+- 主页: https://github.com/Polymer/HTMLImports/tree/master
+- pub.dev: https://pub.dev/packages/html_import
+
+## 历史版本号
+
+- 0.9.0 (2013-11-06)
+- 0.8.10+4 (2013-11-05)
+- 0.8.10+3 (2013-11-04)
+- 0.8.10 (2013-11-01)
+- 0.8.9 (2013-10-31)
+- 0.8.8 (2013-10-30)
+- 0.8.7 (2013-10-28)
+- 0.8.6 (2013-10-24)
+- 0.8.5 (2013-10-21)
+- 0.8.4 (2013-10-19)
+- 0.8.3 (2013-10-17)
+- 0.8.2 (2013-10-14)
+- 0.8.1 (2013-10-04)
+- 0.8.0 (2013-10-03)
+- 0.7.6+4 (2013-10-01)
+- 0.7.6 (2013-09-27)
+- 0.7.5 (2013-09-21)
+- 0.7.4 (2013-09-18)
+- 0.7.3+1 (2013-09-16)
+- 0.7.2+1 (2013-09-08)
+- 0.7.2 (2013-09-06)
+- 0.7.1 (2013-09-03)
+- 0.7.0 (2013-08-28)
+- 0.6.21+3 (2013-08-26)
+- 0.6.20+1 (2013-08-22)
+- 0.6.19 (2013-08-19)
+- 0.6.17+2 (2013-08-12)
+- 0.6.17 (2013-08-10)
+- 0.6.15+3 (2013-08-06)
+- 0.6.15+2 (2013-08-05)
+- 0.6.14 (2013-08-02)
+- 0.6.13 (2013-07-30)
+- 0.6.12 (2013-07-26)
+
+## 获取地址
+
+- pub.dev: https://pub.dev/packages/html_import
+- pub 安装: `dart pub add html_import`
+- Flutter 安装: `flutter pub add html_import`
+- 最新版本: 0.9.0
+- 最新版归档: https://pub.dev/api/archives/html_import-0.9.0.tar.gz
+- 版本锁定: `html_import: ^0.9.0`
+- 中央仓库: https://pub.dev/

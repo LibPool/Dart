@@ -1,0 +1,27 @@
+# oxygene
+
+**Tag**: mobile, ui
+
+## 简介
+
+A Flutter widget for modeling plants and plant-like structures.
+
+## 官网
+
+- 主页: https://github.com/limenhort/oxygene
+- pub.dev: https://pub.dev/packages/oxygene
+
+## 历史版本号
+
+- 1.0.1 (2026-06-10)
+- 1.0.0 (2026-05-26)
+
+## 获取地址
+
+- pub.dev: https://pub.dev/packages/oxygene
+- pub 安装: `dart pub add oxygene`
+- Flutter 安装: `flutter pub add oxygene`
+- 最新版本: 1.0.1
+- 最新版归档: https://pub.dev/api/archives/oxygene-1.0.1.tar.gz
+- 版本锁定: `oxygene: ^1.0.1`
+- 中央仓库: https://pub.dev/

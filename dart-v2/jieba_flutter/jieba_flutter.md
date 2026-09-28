@@ -1,0 +1,28 @@
+# jieba_flutter
+
+**Tag**: mobile
+
+## 简介
+
+A Flutter implementation of Chinese word segmentation Python library, jieba.
+
+## 官网
+
+- 源码仓库: https://github.com/w568w/jieba_flutter
+- pub.dev: https://pub.dev/packages/jieba_flutter
+
+## 历史版本号
+
+- 0.2.0 (2025-06-02)
+- 0.1.1 (2022-03-11)
+- 0.1.0 (2022-02-04)
+
+## 获取地址
+
+- pub.dev: https://pub.dev/packages/jieba_flutter
+- pub 安装: `dart pub add jieba_flutter`
+- Flutter 安装: `flutter pub add jieba_flutter`
+- 最新版本: 0.2.0
+- 最新版归档: https://pub.dev/api/archives/jieba_flutter-0.2.0.tar.gz
+- 版本锁定: `jieba_flutter: ^0.2.0`
+- 中央仓库: https://pub.dev/

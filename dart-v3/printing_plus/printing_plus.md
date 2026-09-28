@@ -1,0 +1,29 @@
+# printing_plus
+
+**Tag**: pdf, printer, print, printing, report, web, mobile, desktop
+
+## 简介
+
+Plugin that allows Flutter apps to generate and print documents to compatible printers on Android, iOS, macOS, Windows, and Linux, as well as web print.
+
+## 官网
+
+- 主页: https://github.com/bousalem98/printing_plus
+- pub.dev: https://pub.dev/packages/printing_plus
+
+## 历史版本号
+
+- 0.0.4 (2024-09-06)
+- 0.0.3 (2024-09-06)
+- 0.0.2 (2024-09-06)
+- 0.0.1 (2024-09-06)
+
+## 获取地址
+
+- pub.dev: https://pub.dev/packages/printing_plus
+- pub 安装: `dart pub add printing_plus`
+- Flutter 安装: `flutter pub add printing_plus`
+- 最新版本: 0.0.4
+- 最新版归档: https://pub.dev/api/archives/printing_plus-0.0.4.tar.gz
+- 版本锁定: `printing_plus: ^0.0.4`
+- 中央仓库: https://pub.dev/

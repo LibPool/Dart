@@ -1,0 +1,26 @@
+# advanced_cached_network_image
+
+**Tag**: mobile, networking
+
+## 简介
+
+A Flutter package that provides queued image loading with caching to prevent 429 (Too Many Requests) errors. Load images sequentially through a queue system with retry mechanisms.
+
+## 官网
+
+- 主页: https://github.com/Auramel/dart_cached_network_image
+- pub.dev: https://pub.dev/packages/advanced_cached_network_image
+
+## 历史版本号
+
+- 1.0.0 (2025-10-13)
+
+## 获取地址
+
+- pub.dev: https://pub.dev/packages/advanced_cached_network_image
+- pub 安装: `dart pub add advanced_cached_network_image`
+- Flutter 安装: `flutter pub add advanced_cached_network_image`
+- 最新版本: 1.0.0
+- 最新版归档: https://pub.dev/api/archives/advanced_cached_network_image-1.0.0.tar.gz
+- 版本锁定: `advanced_cached_network_image: ^1.0.0`
+- 中央仓库: https://pub.dev/

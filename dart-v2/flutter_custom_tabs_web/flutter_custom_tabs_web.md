@@ -1,0 +1,39 @@
+# flutter_custom_tabs_web
+
+**Tag**: web, mobile
+
+## 简介
+
+Web platform implementation of flutter_custom_tabs.
+
+## 官网
+
+- 主页: https://github.com/droibit/flutter_custom_tabs
+- 源码仓库: https://github.com/droibit/flutter_custom_tabs/tree/main/flutter_custom_tabs_web
+- 问题追踪: https://github.com/droibit/flutter_custom_tabs/issues
+- pub.dev: https://pub.dev/packages/flutter_custom_tabs_web
+
+## 历史版本号
+
+- 2.5.0 (2026-07-26)
+- 2.4.0 (2026-02-12)
+- 2.3.0 (2025-04-12)
+- 2.2.0 (2025-03-27)
+- 2.2.0-dev.1 (2024-11-27)
+- 2.1.0 (2024-07-01)
+- 2.0.0 (2024-01-27)
+- 2.0.0-beta.1 (2023-12-25)
+- 2.0.0-beta+1 (2023-11-03)
+- 2.0.0-beta (2023-11-03)
+- 1.1.0 (2023-08-29)
+- 1.0.0 (2021-06-06)
+
+## 获取地址
+
+- pub.dev: https://pub.dev/packages/flutter_custom_tabs_web
+- pub 安装: `dart pub add flutter_custom_tabs_web`
+- Flutter 安装: `flutter pub add flutter_custom_tabs_web`
+- 最新版本: 2.5.0
+- 最新版归档: https://pub.dev/api/archives/flutter_custom_tabs_web-2.5.0.tar.gz
+- 版本锁定: `flutter_custom_tabs_web: ^2.5.0`
+- 中央仓库: https://pub.dev/

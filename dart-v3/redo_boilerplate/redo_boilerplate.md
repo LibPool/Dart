@@ -1,0 +1,32 @@
+# redo_boilerplate
+
+**Tag**: mobile, ui, tooling
+
+## 简介
+
+CLI to scaffold Flutter boilerplate (themes, dependencies, folders)
+
+## 官网
+
+- 主页: https://github.com/aasiskrk/Redo_Boilerplate
+- 源码仓库: https://github.com/aasiskrk/Redo-Boilerplate
+- 问题追踪: https://github.com/aasiskrk/Redo-Boilerplate/issues
+- pub.dev: https://pub.dev/packages/redo_boilerplate
+
+## 历史版本号
+
+- 1.0.2 (2025-09-02)
+- 1.0.1 (2025-08-25)
+- 1.0.0+2 (2025-08-25)
+- 1.0.0+1 (2025-08-25)
+- 1.0.0 (2025-08-25)
+
+## 获取地址
+
+- pub.dev: https://pub.dev/packages/redo_boilerplate
+- pub 安装: `dart pub add redo_boilerplate`
+- Flutter 安装: `flutter pub add redo_boilerplate`
+- 最新版本: 1.0.2
+- 最新版归档: https://pub.dev/api/archives/redo_boilerplate-1.0.2.tar.gz
+- 版本锁定: `redo_boilerplate: ^1.0.2`
+- 中央仓库: https://pub.dev/
