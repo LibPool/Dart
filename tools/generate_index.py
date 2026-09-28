@@ -227,6 +227,10 @@ def fetch_package_list(
     packages: list[dict[str, Any]] = []
     for page in range(1, last_page + 1):
         packages.extend(get_page(page))
+    # Page boundaries can move while paginating, causing a package to appear
+    # on two pages. Keep one authoritative summary per package name.
+    packages_by_name = {item["name"]: item for item in packages}
+    packages = [packages_by_name[name] for name in sorted(packages_by_name)]
     connection.executemany(
         "INSERT OR REPLACE INTO package_list(name, summary_json) VALUES (?, ?)",
         [(item["name"], json.dumps(item, ensure_ascii=False)) for item in packages],
@@ -238,7 +242,7 @@ def fetch_package_list(
         """
     )
     connection.commit()
-    print(f"Fetched {len(packages)} packages")
+    print(f"Fetched {len(packages)} unique packages")
     return packages
 
 
@@ -508,6 +512,23 @@ def safe_component(value: str) -> str:
     return value
 
 
+def build_component_map(names: Iterable[str]) -> dict[str, str]:
+    groups: dict[str, list[str]] = {}
+    for name in names:
+        component = safe_component(name)
+        groups.setdefault(component.casefold(), []).append(name)
+
+    result: dict[str, str] = {}
+    for group in groups.values():
+        if len(group) == 1:
+            result[group[0]] = safe_component(group[0])
+            continue
+        for name in group:
+            digest = hashlib.sha1(name.encode("utf-8")).hexdigest()[:10]
+            result[name] = f"{safe_component(name)}~{digest}"
+    return result
+
+
 def derive_tags(payload: dict[str, Any]) -> list[str]:
     latest = (payload.get("latest") or {}).get("pubspec") or {}
     topics = [
@@ -630,6 +651,8 @@ def write_index(
     connection: sqlite3.Connection,
     package_names: Iterable[str],
 ) -> dict[int, int]:
+    package_names = list(package_names)
+    components = build_component_map(package_names)
     counts = {major: 0 for major in MAJORS}
     for index, name in enumerate(package_names, 1):
         row = connection.execute(
@@ -640,7 +663,7 @@ def write_index(
             continue
         payload = json.loads(row[0])
         markdown = render_package(payload)
-        component = safe_component(name)
+        component = components[name]
         for major in supported_majors(payload):
             path = Path(f"dart-v{major}") / component / f"{component}.md"
             path.parent.mkdir(parents=True, exist_ok=True)
