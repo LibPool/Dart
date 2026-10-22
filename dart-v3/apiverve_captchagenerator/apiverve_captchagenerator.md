@@ -1,0 +1,27 @@
+# apiverve_captchagenerator
+
+**Tag**: web, tooling
+
+## 简介
+
+Captcha Generator generates visual captcha challenges with signed image URLs and text solutions. Each request delivers a challenge image, its correct answer string, an expiration timestamp, and a unique identifier.
+
+## 官网
+
+- 主页: https://apiverve.com/marketplace/captchagenerator?utm_source=dart&utm_medium=referral&utm_content=homepage
+- 源码仓库: https://github.com/apiverve/captchagenerator-api/tree/main/dart
+- pub.dev: https://pub.dev/packages/apiverve_captchagenerator
+
+## 历史版本号
+
+- 1.2.2 (2026-10-21)
+
+## 获取地址
+
+- pub.dev: https://pub.dev/packages/apiverve_captchagenerator
+- pub 安装: `dart pub add apiverve_captchagenerator`
+- Flutter 安装: `flutter pub add apiverve_captchagenerator`
+- 最新版本: 1.2.2
+- 最新版归档: https://pub.dev/api/archives/apiverve_captchagenerator-1.2.2.tar.gz
+- 版本锁定: `apiverve_captchagenerator: ^1.2.2`
+- 中央仓库: https://pub.dev/

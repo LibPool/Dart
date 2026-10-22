@@ -1,0 +1,26 @@
+# ironclad_pqc
+
+**Tag**: ui, security
+
+## 简介
+
+Post-Quantum Cryptography Suite: NIST FIPS 203 (ML-KEM/Kyber) and FIPS 204 (ML-DSA/Dilithium) hybrid encryption for Ironclad SDK.
+
+## 官网
+
+- 主页: https://github.com/Akshaypayya/ironclad-sdk
+- pub.dev: https://pub.dev/packages/ironclad_pqc
+
+## 历史版本号
+
+- 0.0.1 (2026-10-12)
+
+## 获取地址
+
+- pub.dev: https://pub.dev/packages/ironclad_pqc
+- pub 安装: `dart pub add ironclad_pqc`
+- Flutter 安装: `flutter pub add ironclad_pqc`
+- 最新版本: 0.0.1
+- 最新版归档: https://pub.dev/api/archives/ironclad_pqc-0.0.1.tar.gz
+- 版本锁定: `ironclad_pqc: ^0.0.1`
+- 中央仓库: https://pub.dev/

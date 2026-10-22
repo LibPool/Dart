@@ -1,0 +1,31 @@
+# social_signin_kit
+
+**Tag**: authentication, buttons, social-login, security, state-management
+
+## 简介
+
+Social sign-in and connection button styles for 35 providers with caller-supplied logos and Korean/English labels.
+
+## 官网
+
+- 主页: https://beomq.github.io/social_signin_kit/
+- 源码仓库: https://github.com/beomq/social_signin_kit
+- 问题追踪: https://github.com/beomq/social_signin_kit/issues
+- pub.dev: https://pub.dev/packages/social_signin_kit
+
+## 历史版本号
+
+- 0.2.0 (2026-10-15)
+- 0.1.2 (2026-10-12)
+- 0.1.1 (2026-10-05)
+- 0.1.0 (2026-10-04)
+
+## 获取地址
+
+- pub.dev: https://pub.dev/packages/social_signin_kit
+- pub 安装: `dart pub add social_signin_kit`
+- Flutter 安装: `flutter pub add social_signin_kit`
+- 最新版本: 0.2.0
+- 最新版归档: https://pub.dev/api/archives/social_signin_kit-0.2.0.tar.gz
+- 版本锁定: `social_signin_kit: ^0.2.0`
+- 中央仓库: https://pub.dev/
