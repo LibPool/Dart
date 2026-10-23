@@ -2,5 +2,5 @@
 
 - 收录来源：pub.dev 官方 API
 - 包路径：`<package>/<package>.md`
-- 当前共收录 45480 个包
+- 当前共收录 45535 个包
 - 版本兼容性根据每个包历史版本的 `environment.sdk` 约束判定
